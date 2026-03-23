@@ -1,0 +1,710 @@
+number,priority,short_description,severity,sys_created_on,incident_state,u_requested_by.location,u_requested_by.u_region,u_requested_by.u_country_details.name,u_requested_by.location.name,u_requested_by.city
+INC4148875,2 - High,COMPASS - TAK-279-PsA-3001 and TAK-279-PsA-3002 - Data Discrpancy,3 - Low,3/4/2026 18:18,In Progress,USA - MA - Virtual,AMERICAS,United States of America,USA - MA - Virtual,Massachusetts - Virtual
+INC4150633,2 - High,DIS - BOL Issue,3 - Low,3/5/2026 18:43,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4153249,2 - High,DEP - Donor Account issue,3 - Low,3/7/2026 20:33,Resolved,USA - ID - Nampa,AMERICAS,United States of America,USA - ID - Nampa,Nampa
+INC4153658,1 - Critical,Alarm detected in supervision PSAC283 - PSAC283 : No response to SNMP polling and Ping / -,3 - Low,3/8/2026 6:19,In Progress,Global,AMERICAS,United States of America,Global,
+INC4154571,2 - High,Interface 'Tunnel1 · maa2-vpn.z​scloud.net ZEN node' has state is Down.  ,3 - Low,3/9/2026 8:13,In Progress,IND - Maharashtra - Virtual,ASIA,India,IND - Maharashtra - Virtual,Maharashtra - Virtual
+INC4154821,2 - High,"On takedamed.pl, the registration form is currently not working. We were informed that the proxy was restarted and is reported to be live and healthy; however, ",3 - Low,3/9/2026 12:47,In Progress,BGR - Sofia,EMEAR,Bulgaria,BGR - Sofia,Sofia
+INC4157595,2 - High,Global | Various Sites | Fortigate Firewall Estate – Admin Interface Exposure and Suspicious Login Activity,3 - Low,3/11/2026 0:29,In Progress,USA - MA - Cambridge - Kendall Square - 650,AMERICAS,United States of America,USA - MA - Cambridge - Kendall Square - 650,Cambridge
+INC4158025,2 - High,DIS - DXT - Nomogram update,3 - Low,3/11/2026 7:21,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4161122,2 - High,DPS - Unable to apply coupon ,3 - Low,3/13/2026 4:24,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4162218,2 - High,Network Node SSW79-R02-07-01-C7706 is Down,3 - Low,3/13/2026 20:26,Resolved,,,,,
+INC4164173,2 - High,Adobe Acrobat Pro - Frequent application crashes,3 - Low,3/16/2026 5:50,Resolved,JPN - Remote,ASIA,Japan,JPN - Remote,"Chiyoda Ward, Tokyo"
+INC4164385,2 - High,\VBU-CSMR-DATABRICKS-NOTEBOOK-CALLBACK-MED\\010-SHOW-VBU-CSMR-DATABRICKS-JOB-STATUS has failed,3 - Low,3/16/2026 9:41,Resolved,,AMERICAS,United States of America,,
+INC4165991,2 - High,DIS - DXT - Plasma type update,3 - Low,3/17/2026 7:56,Resolved,USA - MN - Waite Park,AMERICAS,United States of America,USA - MN - Waite Park,Waite Park
+INC4166071,2 - High,Network issue,3 - Low,3/17/2026 9:22,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4166512,2 - High,Alarm detected in supervision PCHI1408 - PCHI1408 : No response to SNMP polling and Ping / -,3 - Low,3/17/2026 15:56,In Progress,Global,AMERICAS,United States of America,Global,
+INC4166708,2 - High,US | Lexington & Cambridge | R&D  - Laboratory Instruments are inaccessible,3 - Low,3/17/2026 18:14,Resolved,USA - MA - Cambridge,AMERICAS,United States of America,USA - MA - Cambridge,Cambridge
+INC4166892,2 - High,Network Node SSW79-R02-06-A9372TX is Down,3 - Low,3/17/2026 20:13,Resolved,,,,,
+INC4166897,2 - High,Network Node SSW79-R02-07-A9372TX-MGMT.ntwk.o is Down,3 - Low,3/17/2026 20:15,Resolved,,,,,
+INC4166898,2 - High,Network Node SSW79-R02-04-B9372TX is Down,3 - Low,3/17/2026 20:15,Resolved,,,,,
+INC4166899,2 - High,Network Node SSW79-R02-04-A9372PX is Down,3 - Low,3/17/2026 20:15,Resolved,,,,,
+INC4166900,2 - High,Network Node SSW79-R02-04-A9372TX is Down,3 - Low,3/17/2026 20:15,Resolved,,,,,
+INC4166901,2 - High,Network Node 10.112.253.209 is Down,3 - Low,3/17/2026 20:15,Resolved,,,,,
+INC4166902,2 - High,Network Node SSW79-R02-06-B9372TX is Down,3 - Low,3/17/2026 20:15,Resolved,,,,,
+INC4166903,2 - High,Network Node 10.112.253.208 is Down,3 - Low,3/17/2026 20:15,Resolved,,,,,
+INC4166998,2 - High,Exception Code need to be Voided  ,3 - Low,3/17/2026 21:05,Resolved,USA - IN - Greenwood,AMERICAS,United States of America,USA - IN - Greenwood,Greenwood
+INC4167047,2 - High,\CDP-KOKORO-MDM-RAW-TO-LAND\020-CDP-KOKORO-MDM-REGASAS-RAW-LND-HCO\\030-MONITOR-DATABRICKS-RUN has failed,3 - Low,3/17/2026 21:37,Resolved,,AMERICAS,United States of America,,
+INC4167082,2 - High,"Network access to file server and multiple servers offline in QC Labs and bldg:300USLXILABXSQL001, USQASLEPIDE001,USBNNLEPIDE900,USBNNLEPIDE800,USLXIDXRSQL001",3 - Low,3/17/2026 21:59,Resolved,USA - MA - Lexington - BIO OPS,AMERICAS,United States of America,USA - MA - Lexington - BIO OPS,Lexington
+INC4167776,2 - High,DIS - EOD - Plasma type update,3 - Low,3/18/2026 9:09,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4167783,2 - High,DIS - DXT - Plasma type update,3 - Low,3/18/2026 9:23,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4167786,2 - High,DIS - EOD - Plasma type update,3 - Low,3/18/2026 9:28,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4167796,2 - High,\GMSGQMI-CMO-LAMBDA-JOBS\030-LAKE-LAMBDA-CMO-TAKEDA-SAP\\030-RUN-LAKE-LAMBDA-CMO-TAKEDA-SAP has failed,3 - Low,3/18/2026 9:38,Resolved,,AMERICAS,United States of America,,
+INC4167798,2 - High,\GMSGQEHS-MOC-LAMBDA-JOBS\030-LAKE-LAMBDA-MOC-TASKS\\030-RUN-LAKE-LAMBDA-GMSGQEHS-MOC-TASKS has failed,3 - Low,3/18/2026 9:39,Resolved,,AMERICAS,United States of America,,
+INC4167799,2 - High,\GMSGQEHS-MOC-LAMBDA-JOBS\030-LAKE-LAMBDA-MOC-CAPA\\030-RUN-LAKE-LAMBDA-GMSGQEHS-MOC-CAPA has failed,3 - Low,3/18/2026 9:39,Resolved,,AMERICAS,United States of America,,
+INC4167800,2 - High,\GMSGQEHS-RISK-LAMBDA-JOBS\030-LAKE-LAMBDA-RISK-CONTROLS\\030-RUN-LAKE-LAMBDA-GMSGQEHS-RISK-CONTROLS has failed,3 - Low,3/18/2026 9:39,Resolved,,AMERICAS,United States of America,,
+INC4167804,2 - High,\GMSGQMI-CMO-LAMBDA-JOBS\030-LAKE-LAMBDA-CMO-SHIRE-STABILITY\\030-RUN-LAKE-LAMBDA-CMO-SHIRE-STABILITY has failed,3 - Low,3/18/2026 9:39,Resolved,,AMERICAS,United States of America,,
+INC4167805,2 - High,\GMSGQMI-CMO-LAMBDA-JOBS\030-LAKE-LAMBDA-CMO-TAKEDA-PRIMR\\030-RUN-LAKE-LAMBDA-CMO-TAKEDA-PRIMR has failed,3 - Low,3/18/2026 9:39,Resolved,,AMERICAS,United States of America,,
+INC4167806,2 - High,\GMSGQMI-CMO-LAMBDA-JOBS\030-LAKE-LAMBDA-CMO-TAKEDA-STABILITY\\030-RUN-LAKE-LAMBDA-CMO-TAKEDA-STABILITY has failed,3 - Low,3/18/2026 9:39,Resolved,,AMERICAS,United States of America,,
+INC4167808,2 - High,\GMSGQMI-CMO-LAMBDA-JOBS\030-LAKE-LAMBDA-CMO-SHIRE-SAP\\030-RUN-LAKE-LAMBDA-CMO-SHIRE-SAP has failed,3 - Low,3/18/2026 9:40,Resolved,,AMERICAS,United States of America,,
+INC4167814,2 - High,DIS - EOD - Plasma type update ,3 - Low,3/18/2026 9:43,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4167816,2 - High,DIS - EOD - Plasma type update ,3 - Low,3/18/2026 9:45,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4167823,2 - High,\GMSGQMI-CMO-LAMBDA-PREPROCESS\\010-CONTRACT-LAMBDA-CMO-PREPROCESS has failed,3 - Low,3/18/2026 9:50,Resolved,,AMERICAS,United States of America,,
+INC4167849,2 - High,DIS - EOD - All donors not processed ,3 - Low,3/18/2026 10:13,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4167852,2 - High,DIS - EOD - Plasma type update,3 - Low,3/18/2026 10:15,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4167863,2 - High,DIS - EOD - Plasma type update ,3 - Low,3/18/2026 10:26,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4167910,2 - High,\GMSGQMI-CMO\\040-BDM-WF-GMSGQMI-CMO-LAKE-TO-LAKE-TXN-CMO-STABILITY-CHANGE-LOG-GLBL has failed,3 - Low,3/18/2026 11:06,Resolved,,AMERICAS,United States of America,,
+INC4167911,2 - High,\NEW-COPY-OF-CRMD-VVA-REP-LICENSE-REPORT\02-STG-VVA-LICENSE-REPORT\\010-tf_VVA_STG_VVA_REP_LICENSE_REPORT has failed,3 - Low,3/18/2026 11:09,Resolved,,AMERICAS,United States of America,,
+INC4167929,2 - High,\GMSGQMI-CMO\\040-BDM-WF-GMSGQMI-CMO-LAKE-TO-LAKE-TXN-CMO-ERP-CHANGE-LOG-GLBL has failed,3 - Low,3/18/2026 11:36,Resolved,,AMERICAS,United States of America,,
+INC4167956,2 - High,Network Node wBUSAGS01w001.onetakeda.com is Down,3 - Low,3/18/2026 12:14,New,,,,,
+INC4167976,2 - High,\GMSGQMI-GLIMS-CONNECTION\\010-GMSGQMI-GLIMS-CONNECTION-TEST has failed,3 - Low,3/18/2026 12:35,Resolved,,AMERICAS,United States of America,,
+INC4167981,2 - High,\PDT_SP_DATA_JOBS\PDT_SP_DATA_STATUS_WORKFLOW\\MONITOR_DATABRICKS_JOB has failed,3 - Low,3/18/2026 12:37,Resolved,,AMERICAS,United States of America,,
+INC4168016,2 - High,\GMSGQMI-CMO\\050-BDM-WF-GMSGQMI-CMO-LAKE-TO-LAKE-TXN-CMO-LIMS-DATA-GLBL has failed,3 - Low,3/18/2026 13:03,Resolved,,AMERICAS,United States of America,,
+INC4168026,2 - High,\GMSGQMI-CMO\\050-BDM-WF-GMSGQMI-CMO-LAKE-TO-LAKE-TXN-CMO-ERP-DATA-GLBL has failed,3 - Low,3/18/2026 13:14,Resolved,,AMERICAS,United States of America,,
+INC4168044,2 - High,\GMSGQMI-MAXIMO\\010-IICS-TF-GMSGQMI-MAXIMO-SRC-TO-RAW-INCR has failed,3 - Low,3/18/2026 13:31,Resolved,,AMERICAS,United States of America,,
+INC4168045,2 - High,\GMSGQMI-MAXIMO\\010-IICS-TF-GMSGQMI-MAXIMO-SRC-TO-RAW-1 has failed,3 - Low,3/18/2026 13:31,Resolved,,AMERICAS,United States of America,,
+INC4168047,2 - High,\GMSGQMI-MAXIMO\\010-IICS-TF-GMSGQMI-MAXIMO-SRC-TO-RAW-2 has failed,3 - Low,3/18/2026 13:31,Resolved,,AMERICAS,United States of America,,
+INC4168087,2 - High,\NEW-COPY-OF-HRIS3W:WORKDAY-TO-FIDELITY\\005-TDL_TED_RMV-FIDELITY-GS has failed,3 - Low,3/18/2026 14:10,Resolved,,AMERICAS,United States of America,,
+INC4168105,2 - High,\GMSGQ-MAF-RAW-LAKE-STREAMING-CALLBACK-JOB-2\\010-SHOW-DATABRICKS-JOB-STATUS has failed,3 - Low,3/18/2026 14:20,Resolved,,AMERICAS,United States of America,,
+INC4168106,2 - High,\GMSGQ-MAF-RAW-LAKE-STREAMING-CALLBACK-JOB\\010-SHOW-DATABRICKS-JOB-STATUS has failed,3 - Low,3/18/2026 14:20,Resolved,,AMERICAS,United States of America,,
+INC4168162,2 - High,DIS - Lab imports issue ,3 - Low,3/18/2026 14:57,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4168263,2 - High,\WORKDAY-TO-JPN-EMPLOYEE-MUTUAL-AID\\005-DELETE-EXISTING-FILE-JPN-EMPLOYEE-MUTUAL-AID has failed,3 - Low,3/18/2026 16:15,Resolved,,AMERICAS,United States of America,,
+INC4168352,2 - High,\REDESIGNED_JPN_COMM_DWH\25-SAPBPR_DATA_FACTS_DL_TO_DWH\253-PRIMARY_SALES_DWH\2533-PRIMARY_SALES_FIX\\010-TF_JPN_SAP_BPR_DL_TO_DWH_DWF_COM_PRI_SLS_FIX has faile,3 - Low,3/18/2026 17:30,Resolved,,AMERICAS,United States of America,,
+INC4168373,2 - High,DIS - App issue,3 - Low,3/18/2026 17:47,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4168397,2 - High,\FIND-CITI-STATEMENT-US-BPRI-RSA\\050-FILE-FROM-SFPC99-TO-GLOBALSCAPE-TO-BLACKLINE has failed,3 - Low,3/18/2026 18:06,Resolved,,AMERICAS,United States of America,,
+INC4168407,2 - High,DIS - Unable to save measurements,3 - Low,3/18/2026 18:11,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4168424,2 - High,DIS - DXT - Nomogram update ,3 - Low,3/18/2026 18:33,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4168499,2 - High,DIS - DXT - Arm/Machine Update,3 - Low,3/18/2026 19:33,Resolved,USA - TX - Universal City,AMERICAS,United States of America,USA - TX - Universal City,Universal City
+INC4168533,2 - High,DIS - HAE - Plasma type update,3 - Low,3/18/2026 19:51,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4168542,2 - High,DIS - HAE - Arm/Machine Update,3 - Low,3/18/2026 19:58,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4168569,2 - High,DIS - DXT - Plasma type update,3 - Low,3/18/2026 20:12,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4168586,2 - High,DIS EDQ - ISSUE,3 - Low,3/18/2026 20:19,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4168591,2 - High,DIS - DXT - Plasma type update,3 - Low,3/18/2026 20:23,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4168622,2 - High,\MDG_NON_FI_IDOC_POST_MDG_1909\\010-CALL_RBDAPP01_MDG_MDG_1909 has failed,3 - Low,3/18/2026 20:38,Resolved,,AMERICAS,United States of America,,
+INC4168630,2 - High,DIS - DXT - Disconnect pin,3 - Low,3/18/2026 20:48,Resolved,USA - WI - Milwaukee,AMERICAS,United States of America,USA - WI - Milwaukee,Milwaukee
+INC4168686,2 - High,DIS - DXT - Plasma type update,3 - Low,3/18/2026 21:28,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4168688,2 - High,\VEEVA_JAPAN\VEEVA_UPLOAD\MC_ACTIVITY_INTERFACE_MEDPEER_MMI_LOG_1_AM_JST\SFTP_MEDPEER_MMI_LOG_GS_IICS\\020-SFTP_GET_GS_TO_IICS_MMI2_CLICK_LOG_0100 has failed,3 - Low,3/18/2026 21:31,Resolved,,AMERICAS,United States of America,,
+INC4168689,2 - High,\VEEVA_JAPAN\VEEVA_UPLOAD\HOKUTO\\030-FF_LDG_HOKUTO has failed,3 - Low,3/18/2026 21:31,Resolved,,AMERICAS,United States of America,,
+INC4168694,2 - High,DIS - Donor Entry issue,3 - Low,3/18/2026 21:38,Resolved,USA - FL - Pensacola,AMERICAS,United States of America,USA - FL - Pensacola,Pensacola
+INC4168709,2 - High,DIS - DXT - Plasma type update,3 - Low,3/18/2026 21:44,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4168715,2 - High,\NEW-COPY-OF-CRMD-MULTICHANNEL_ACCNT_MERGE_ENC\01-VVA-TO-STG-MULTICHANNEL_DATA\\020-T_VVA_STG_ACCNT_VEEVA_REP has failed,3 - Low,3/18/2026 21:51,Resolved,,AMERICAS,United States of America,,
+INC4168719,2 - High,DIS - HAE - Arm/Machine Update,3 - Low,3/18/2026 21:52,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4168728,2 - High,DIS - DXT - Arm/Machine Update,3 - Low,3/18/2026 21:59,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4168729,2 - High,\VEEVA_JAPAN\VEEVA_UPLOAD\MULTICHANNEL_ACTIVITY_INTERFACE_NEW_TMS\SFTP_TMS_GS_IICS\\030-TMS_SFTP_FILES_NEW has failed,3 - Low,3/18/2026 22:00,Resolved,,AMERICAS,United States of America,,
+INC4168731,2 - High,\VEEVA_JAPAN\VEEVA_UPLOAD\MC_ACTIVITY_INTERFACE_MEDPEER_MMI_LOG_1_AM_JST\SFTP_MEDPEER_MMI_LOG_GS_IICS\\040-RENAME-SRC-FILES-MEDPEER-MMI-0100 has failed,3 - Low,3/18/2026 22:01,Resolved,,AMERICAS,United States of America,,
+INC4168733,2 - High,DIS - BOL Issue,3 - Low,3/18/2026 22:04,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4168744,2 - High,<OTHER>\TIDAL-CHECK-US-API-EVERY-30-MIN\\010-GET-DATA-FROM-API has failed,3 - Low,3/18/2026 22:10,Resolved,,AMERICAS,United States of America,,
+INC4168759,2 - High,DIS - Arm/Machine Update,3 - Low,3/18/2026 22:19,Resolved,USA - IL - Bolingbrook,AMERICAS,United States of America,USA - IL - Bolingbrook,Bolingbrook
+INC4168777,2 - High,\NEW-COPY-OF-CRM_TAKEDA-ACNT_PRD_RESTRICT_EXCEPTION\01-VVA-TO-STG:ACCNT_PROD_RESTRICT_REP-IB\\010-t_VVA_STG_ACCNT_VEEVA_REP has failed,3 - Low,3/18/2026 22:30,Resolved,,AMERICAS,United States of America,,
+INC4168792,2 - High,\VEEVA_JAPAN\VEEVA_UPLOAD\YONYAKU\\020-LIST_AWS_SRC_YONYAKU_FILES has failed,3 - Low,3/18/2026 22:35,Resolved,,AMERICAS,United States of America,,
+INC4168799,2 - High,\VEEVA_JAPAN\MSTR_JAPAN\29-PBI_DATASET_REFRESH\PD058_01_PBI_REFRESH_SUCCESS_CALLBACK\\010-TIDAL-SCAN-STATUS-OF-POWERBI-JOB has failed,3 - Low,3/18/2026 22:39,Resolved,,AMERICAS,United States of America,,
+INC4168800,2 - High,\VEEVA_JAPAN\VEEVA_UPLOAD\YONYAKU\\030-FF_LDG_YONYAKU has failed,3 - Low,3/18/2026 22:40,Resolved,,AMERICAS,United States of America,,
+INC4168864,2 - High,DIS - HAE - Arm/Machine Update,3 - Low,3/18/2026 23:29,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4168878,2 - High,DIS - HAE - Plasma type update,3 - Low,3/18/2026 23:43,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4168891,2 - High,Donor Reaction - Needs to be removed on the system,3 - Low,3/18/2026 23:52,Resolved,USA - FL - Daytona Beach,AMERICAS,United States of America,USA - FL - Daytona Beach,Daytona Beach
+INC4168906,2 - High,\COM-CDP-CRM-LAKE-TO-LAKE-DELTA\\090-CDP_CRM-LAKE-TO-LAKE-SMILE-KOL-STAKEHOLDER-STG has failed,3 - Low,3/19/2026 0:07,Resolved,,AMERICAS,United States of America,,
+INC4168917,2 - High,DIS - Remove Box from BOL,3 - Low,3/19/2026 0:22,Resolved,USA - MD - Towson,AMERICAS,United States of America,USA - MD - Towson,Towson
+INC4168923,2 - High,DIS - HAE - Plasma type update,3 - Low,3/19/2026 0:25,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4168949,2 - High,DIS - Unable to save Arm ,3 - Low,3/19/2026 0:42,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4168974,2 - High,DIS - DXT - Plasma type update,3 - Low,3/19/2026 1:13,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4168984,2 - High,DIS - HAE - Arm/Machine Update,3 - Low,3/19/2026 1:23,Resolved,USA - MO - Saint Peters,AMERICAS,United States of America,USA - MO - Saint Peters,St Peters
+INC4168986,2 - High,DIS - HAE - Plasma Type update,3 - Low,3/19/2026 1:24,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4168987,2 - High,DIS - DXT - Plasma type update,3 - Low,3/19/2026 1:25,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169008,2 - High,DIS - HAE - Volumes update,3 - Low,3/19/2026 1:45,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169014,2 - High,DIS - HAE - Plasma type update ,3 - Low,3/19/2026 1:50,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169023,2 - High,DIS - DXT - Reprocess unit,3 - Low,3/19/2026 1:56,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169049,2 - High,DIS - HAE - Arm/Machine Update,3 - Low,3/19/2026 2:19,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169054,2 - High,DIS - DXT - Plasma type update,3 - Low,3/19/2026 2:25,Resolved,USA - IA - West Des Moines,AMERICAS,United States of America,USA - IA - West Des Moines,West Des Moines
+INC4169058,2 - High,\GMSGQMI-TECHMASS-ORDER-BOTTLENECK-RI\\010-IICS-TF-GMSGQMI-TECHMASS-ORDER-BOTTLENECK-RI-ALL-INCR-SRC-TO-RAW has failed,3 - Low,3/19/2026 2:32,Resolved,,AMERICAS,United States of America,,
+INC4169065,2 - High,DIS - Exception update,3 - Low,3/19/2026 2:40,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169067,2 - High,DIS - HAE - Volumes update ,3 - Low,3/19/2026 2:43,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169071,2 - High,DIS - DXT - Volumes update,3 - Low,3/19/2026 2:50,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169085,2 - High,DIS - Remove Box from BOL ,3 - Low,3/19/2026 3:01,Resolved,USA - WI - Sheboygan,AMERICAS,United States of America,USA - WI - Sheboygan,Sheboygan
+INC4169091,2 - High,DIS - DXT - Volumes update ,3 - Low,3/19/2026 3:08,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169104,2 - High,DIS - EDQ Issue,3 - Low,3/19/2026 3:39,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169120,2 - High,DIS - HAE - Plasma Type update,3 - Low,3/19/2026 4:04,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169124,2 - High,DIS - DXT - Plasma type update,3 - Low,3/19/2026 4:11,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169125,2 - High,DIS - DXT - Plasma Type update,3 - Low,3/19/2026 4:11,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169131,2 - High,DIS - HAE - Plasma type update ,3 - Low,3/19/2026 4:26,Resolved,USA - TX - Pearland,AMERICAS,United States of America,USA - TX - Pearland,Pearland
+INC4169136,2 - High,DIS - DXT - Plasma type update,3 - Low,3/19/2026 4:33,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169146,2 - High,\GMSGQEHS-EVENT-DATE-DETAILS-GLOBALSCAPE-PUSH\\0101-EVENT-DATE-DETAILS-GLOBALSCAPE-PUSH has failed,3 - Low,3/19/2026 4:45,Resolved,,AMERICAS,United States of America,,
+INC4169147,2 - High,\GMSGQEHS-CAPA-DATE-DETAILS-GLOBALSCAPE-PUSH\\0101-CAPA-DATE-DETAILS-GLOBALSCAPE-PUSH has failed,3 - Low,3/19/2026 4:45,Resolved,,AMERICAS,United States of America,,
+INC4169148,2 - High,DIS - Deferral Issue,3 - Low,3/19/2026 4:48,Resolved,USA - CO - Longmont,AMERICAS,United States of America,USA - CO - Longmont,Longmont
+INC4169160,2 - High,DIS - DXT - Plasma Type update,3 - Low,3/19/2026 5:01,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169181,2 - High,DIS - HAE - Plasma type update,3 - Low,3/19/2026 5:30,Resolved,USA - CO - Loveland,AMERICAS,United States of America,USA - CO - Loveland,Loveland
+INC4169215,2 - High,DIS - DXT - Plasma type update,3 - Low,3/19/2026 5:50,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169221,2 - High,DIS - DXT - Plasma type update,3 - Low,3/19/2026 5:54,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169223,2 - High,DIS - HAE - Volumes update ,3 - Low,3/19/2026 5:59,Resolved,USA - CO - Thornton,AMERICAS,United States of America,USA - CO - Thornton,Thornton
+INC4169226,2 - High,DIS - DXT - Plasma type update,3 - Low,3/19/2026 6:01,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169227,2 - High,DIS - DXT - Plasma Type update,3 - Low,3/19/2026 6:02,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169233,2 - High,<OTHER>\TIDAL-CHECK-US-API-EVERY-30-MIN\\010-GET-DATA-FROM-API has failed,3 - Low,3/19/2026 6:07,Resolved,,AMERICAS,United States of America,,
+INC4169235,2 - High,DIS - EDQ Issue,3 - Low,3/19/2026 6:08,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169236,2 - High,DIS - DXT - Plasma Type update,3 - Low,3/19/2026 6:10,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169240,2 - High,DIS - HAE - Plasma Type update,3 - Low,3/19/2026 6:13,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169253,2 - High,DIS - DXT - Plasma Type and Volumes update,3 - Low,3/19/2026 6:26,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169254,2 - High,DIS - DXT - Plasma type update ,3 - Low,3/19/2026 6:28,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169257,2 - High,DIS - DXT - Plasma type update,3 - Low,3/19/2026 6:31,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169276,2 - High,DIS - HAE - Volumes update ,3 - Low,3/19/2026 6:42,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169278,2 - High,\FIND:IDOC-SERIALIZATION_BPR\\010-Z_FIN_IDOC_SERIALIZATION has failed,3 - Low,3/19/2026 6:46,Resolved,,AMERICAS,United States of America,,
+INC4169280,2 - High,DIS - HAE - Plasma type update ,3 - Low,3/19/2026 6:47,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169281,2 - High,DIS - Unable to ready labels ,3 - Low,3/19/2026 6:47,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169282,2 - High,DIS - HAE - Plasma Type update,3 - Low,3/19/2026 6:49,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169288,2 - High,DIS - DXT - Plasma type update,3 - Low,3/19/2026 6:56,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169290,2 - High,DIS - HAE - Volumes update,3 - Low,3/19/2026 6:58,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169291,2 - High,DIS - EOD - Plasma type update ,3 - Low,3/19/2026 7:01,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169295,2 - High,DIS - DXT - Plasma Type update,3 - Low,3/19/2026 7:02,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169297,2 - High,DIS - EOD - Not all accounted for,3 - Low,3/19/2026 7:06,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169306,2 - High,DIS - EOD - Plasma type update ,3 - Low,3/19/2026 7:15,Resolved,USA - OK - Tulsa,AMERICAS,United States of America,USA - OK - Tulsa,Tulsa
+INC4169313,2 - High,DIS - DXT - Plasma Type update,3 - Low,3/19/2026 7:21,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169315,2 - High,DIS - HAE - Plasma Type update,3 - Low,3/19/2026 7:24,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169316,2 - High,DIS - HAE - Volumes update ,3 - Low,3/19/2026 7:24,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169317,2 - High,DIS - DXT - Plasma type update ,3 - Low,3/19/2026 7:25,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169319,2 - High,DIS - EOD - Arm/Machine Update ,3 - Low,3/19/2026 7:25,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169322,2 - High,DIS - DXT - Plasma type update,3 - Low,3/19/2026 7:27,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169323,2 - High,DIS - HAE - Plasma Type update,3 - Low,3/19/2026 7:27,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169326,2 - High,DIS - DXT - Plasma type update,3 - Low,3/19/2026 7:30,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169330,2 - High,DIS - EOD - Plasma type update,3 - Low,3/19/2026 7:31,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169334,2 - High,DIS - HAE - Plasma Type update,3 - Low,3/19/2026 7:35,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169338,2 - High,DIS - HAE - Volumes update ,3 - Low,3/19/2026 7:37,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169343,2 - High,DIS - DXT - Plasma type update,3 - Low,3/19/2026 7:40,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169355,2 - High,DIS - DXT - Plasma type update ,3 - Low,3/19/2026 7:45,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169363,2 - High, DIS - DXT - Plasma type update,3 - Low,3/19/2026 7:51,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169364,2 - High,DIS - DXT - Plasma type update,3 - Low,3/19/2026 7:51,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169368,2 - High,DIS - DXT - Volumes update,3 - Low,3/19/2026 7:54,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169377,2 - High,DIS - HAE - Plasma type update ,3 - Low,3/19/2026 8:02,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169384,2 - High,DIS - EOD - Not all accounted for,3 - Low,3/19/2026 8:07,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169392,2 - High,DIS - DXT - Plasma Type update,3 - Low,3/19/2026 8:11,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169396,2 - High,DIS - EOD - Plasma type update ,3 - Low,3/19/2026 8:15,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169405,2 - High,DIS - DXT - Plasma type update,3 - Low,3/19/2026 8:25,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169406,2 - High,DIS - EOD - Volumes update ,3 - Low,3/19/2026 8:29,Resolved,USA - TX - Universal City,AMERICAS,United States of America,USA - TX - Universal City,Universal City
+INC4169413,2 - High,DIS - DXT - Plasma type update ,3 - Low,3/19/2026 8:36,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169418,2 - High,DIS - DXT - Plasma type update ,3 - Low,3/19/2026 8:40,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169424,2 - High,DIS - EOD - Plasma type update ,3 - Low,3/19/2026 8:45,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169427,2 - High,DIS - EOD - Plasma type update ,3 - Low,3/19/2026 8:53,Resolved,USA - CA - Temecula,AMERICAS,United States of America,USA - CA - Temecula,Temecula
+INC4169429,2 - High,DIS - EOD - Volumes update ,3 - Low,3/19/2026 8:56,Resolved,USA - ID - Boise,AMERICAS,United States of America,USA - ID - Boise,Boise
+INC4169431,2 - High,DIS - EOD - Plasma type update ,3 - Low,3/19/2026 9:00,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169449,2 - High,DIS - DXT - Plasma type update,3 - Low,3/19/2026 9:18,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169450,2 - High,DIS - DXT - Plasma type update,3 - Low,3/19/2026 9:18,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169476,2 - High,DIS - DXT - Plasma type update ,3 - Low,3/19/2026 9:39,Resolved,USA - CA - Temecula,AMERICAS,United States of America,USA - CA - Temecula,Temecula
+INC4169477,2 - High,\GMSGQMI-CMO-LAMBDA-JOBS\030-LAKE-LAMBDA-CMO-SHIRE-SAP\\030-RUN-LAKE-LAMBDA-CMO-SHIRE-SAP has failed,3 - Low,3/19/2026 9:39,Resolved,,AMERICAS,United States of America,,
+INC4169480,2 - High,\GMSGQMI-CMO-LAMBDA-JOBS\030-LAKE-LAMBDA-CMO-TAKEDA-SAP\\030-RUN-LAKE-LAMBDA-CMO-TAKEDA-SAP has failed,3 - Low,3/19/2026 9:39,Resolved,,AMERICAS,United States of America,,
+INC4169481,2 - High,\GMSGQMI-CMO-LAMBDA-JOBS\030-LAKE-LAMBDA-CMO-SHIRE-STABILITY\\030-RUN-LAKE-LAMBDA-CMO-SHIRE-STABILITY has failed,3 - Low,3/19/2026 9:39,Resolved,,AMERICAS,United States of America,,
+INC4169483,2 - High,\GMSGQMI-CMO-LAMBDA-JOBS\030-LAKE-LAMBDA-CMO-TAKEDA-STABILITY\\030-RUN-LAKE-LAMBDA-CMO-TAKEDA-STABILITY has failed,3 - Low,3/19/2026 9:39,Resolved,,AMERICAS,United States of America,,
+INC4169489,2 - High,DIS - EOD - Plasma type update ,3 - Low,3/19/2026 9:48,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169490,2 - High,DIS - DXT - Plasma type update,3 - Low,3/19/2026 9:49,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169500,2 - High,DIS - DXT - Plasma type update,3 - Low,3/19/2026 9:58,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169506,2 - High,DIS - EOD - Plasma type update ,3 - Low,3/19/2026 10:04,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169514,2 - High,DIS - EOD - Plasma type update ,3 - Low,3/19/2026 10:13,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169535,2 - High,\GMSGQMI-CMO\\040-BDM-WF-GMSGQMI-CMO-LAKE-TO-LAKE-TXN-CMO-STABILITY-CHANGE-LOG-GLBL has failed,3 - Low,3/19/2026 10:38,Resolved,,AMERICAS,United States of America,,
+INC4169542,2 - High,\NEW-COPY-OF-CRMD-VVA-REP-LICENSE-REPORT\02-STG-VVA-LICENSE-REPORT\\010-tf_VVA_STG_VVA_REP_LICENSE_REPORT has failed,3 - Low,3/19/2026 10:52,Resolved,,AMERICAS,United States of America,,
+INC4169560,2 - High,DIS - EOD - EDQ Rereview ,3 - Low,3/19/2026 11:20,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169572,2 - High,\GMSGQMI-CMO\\050-BDM-WF-GMSGQMI-CMO-LAKE-TO-LAKE-TXN-CMO-ERP-DATA-GLBL has failed,3 - Low,3/19/2026 11:42,Resolved,,AMERICAS,United States of America,,
+INC4169593,2 - High,\SFTP-TO-FROM-OTAS-FSX\MES-API\FSX-TO-OTAS\SFTP-FSX-TO-OTAS-MES-API-1945\\010-SFTP-FSX-TO-OTAS-MES-API-1945 has failed,3 - Low,3/19/2026 12:17,Resolved,,AMERICAS,United States of America,,
+INC4169594,2 - High,\SFTP-TO-FROM-OTAS-FSX\MES-F34\FSX-TO-OTAS\SFTP-FSX-TO-OTAS-MES-F34-1898\\010-SFTP-FSX-TO-OTAS-MES-F34-1898 has failed,3 - Low,3/19/2026 12:17,Resolved,,AMERICAS,United States of America,,
+INC4169595,2 - High,\SFTP-TO-FROM-OTAS-FSX\MES-F36\FSX-TO-OTAS\SFTP-FSX-TO-OTAS-MES-F36-1946\\010-SFTP-FSX-TO-OTAS-MES-F36-1946 has failed,3 - Low,3/19/2026 12:17,Resolved,,AMERICAS,United States of America,,
+INC4169596,2 - High,\GMSGQMI-CMO\\050-BDM-WF-GMSGQMI-CMO-LAKE-TO-LAKE-TXN-CMO-LIMS-DATA-GLBL has failed,3 - Low,3/19/2026 12:18,Resolved,,AMERICAS,United States of America,,
+INC4169612,2 - High,\GMSGQMI-GLIMS-CONNECTION\\010-GMSGQMI-GLIMS-CONNECTION-TEST has failed,3 - Low,3/19/2026 12:34,Resolved,,AMERICAS,United States of America,,
+INC4169876,2 - High,DIS - Unable to ready labels,3 - Low,3/19/2026 16:35,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4169902,2 - High,<OTHER>\TIDAL-CHECK-US-API-EVERY-30-MIN\\010-GET-DATA-FROM-API has failed,3 - Low,3/19/2026 17:18,Resolved,,AMERICAS,United States of America,,
+INC4169961,2 - High,DIS - HAE - Plasma type update,3 - Low,3/19/2026 18:12,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170006,2 - High,DIS - SPE Issue,3 - Low,3/19/2026 18:48,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170013,2 - High,DIS - HAE - Data Missing,3 - Low,3/19/2026 18:58,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170053,2 - High,US | Lexington & Cambridge | Scientific Informatics Lab Computing - Repeated device and session disconnects during operation,3 - Low,3/19/2026 19:32,Resolved,USA - MA - Cambridge - Kendall Square - 650,AMERICAS,United States of America,USA - MA - Cambridge - Kendall Square - 650,Cambridge
+INC4170058,2 - High,DIS - Remove Box from BOL,3 - Low,3/19/2026 19:34,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170068,2 - High,DIS - DXT - Plasma type update,3 - Low,3/19/2026 19:42,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170074,2 - High,Can't transfer Takeda phone number to personal phone number.,3 - Low,3/19/2026 19:47,Resolved,USA - MA - Cambridge - Kendall Square - 650,AMERICAS,United States of America,USA - MA - Cambridge - Kendall Square - 650,Cambridge
+INC4170075,2 - High,DIS - Physical Issue,3 - Low,3/19/2026 19:47,Resolved,USA - VA - Harrisonburg,AMERICAS,United States of America,USA - VA - Harrisonburg,Harrisonburg
+INC4170077,2 - High,DIS - HAE - Data Missing,3 - Low,3/19/2026 19:49,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170086,2 - High,<CONNECTION-INTERNAL>USVGAIICSP006 Agent/Adapter disconnected in USA Tidal Production at 3/19/2026 10:27:11 AM EST,3 - Low,3/19/2026 19:57,Resolved,,AMERICAS,United States of America,,
+INC4170097,2 - High,DIS - DXT - Plasma type update,3 - Low,3/19/2026 20:03,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170119,2 - High,DIS - Deferral Issue,3 - Low,3/19/2026 20:17,Resolved,USA - TX - North Richland Hills,AMERICAS,United States of America,USA - TX - North Richland Hills,North Richland Hills
+INC4170146,2 - High,DIS - Deferral Issue,3 - Low,3/19/2026 20:35,Resolved,USA - TX - North Richland Hills,AMERICAS,United States of America,USA - TX - North Richland Hills,North Richland Hills
+INC4170209,2 - High,DIS - DXT - Plasma type update,3 - Low,3/19/2026 21:17,Resolved,USA - FL - Kissimmee,AMERICAS,United States of America,USA - FL - Kissimmee,Kissimmee
+INC4170219,2 - High,DIS - HAE - Nomogram update,3 - Low,3/19/2026 21:26,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170222,2 - High,DIS - Unable to save measurements,3 - Low,3/19/2026 21:29,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170224,2 - High,\VEEVA_JAPAN\VEEVA_UPLOAD\MC_ACTIVITY_INTERFACE_MEDPEER_MMI_LOG_1_AM_JST\SFTP_MEDPEER_MMI_LOG_GS_IICS\\040-RENAME-SRC-FILES-MEDPEER-MMI-0100 has failed,3 - Low,3/19/2026 21:31,Resolved,,AMERICAS,United States of America,,
+INC4170229,2 - High,DIS - DXT - Plasma type update,3 - Low,3/19/2026 21:38,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170239,2 - High,\VEEVA_JAPAN\VEEVA_UPLOAD\MC_ACTIVITY_INTERFACE_MEDPEER_MMI_LOG_1_AM_JST\\010-FF_LDG_MEDPEER_MMI_LOG has failed,3 - Low,3/19/2026 21:45,Resolved,,AMERICAS,United States of America,,
+INC4170244,2 - High,\NEW-COPY-OF-HRIS1D:WORKDAY-TO-NORWAY-ADITRO-W2\\005-TDL_TED_RMV_WKDY_NORWAY-ADITRO-FILES-GS has failed,3 - Low,3/19/2026 21:50,Resolved,,AMERICAS,United States of America,,
+INC4170285,2 - High,\GMSGQMI-DISCOVERANT-EDB-LAMBDA-JOBS\020-CONTRACT-LAMBDA-EDB-PD-AG-D-DATA\\020-RUN-CONTRACT-CHECK-LAMBDA-GMSGQMI-EDB-PD-AG-D-DATA has failed,3 - Low,3/19/2026 22:20,Resolved,,AMERICAS,United States of America,,
+INC4170288,2 - High,DIS - DXT - Plasma type update,3 - Low,3/19/2026 22:23,Resolved,USA - TX - Irving,AMERICAS,United States of America,USA - TX - Irving,Irving
+INC4170306,2 - High,DIS - HAE - Plasma type update,3 - Low,3/19/2026 22:34,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170329,2 - High,\GMSGQMI-DISCOVERANT-EDB-LAMBDA-JOBS\020-CONTRACT-LAMBDA-EDB-PD-AG-LIMITS\\020-RUN-CONTRACT-CHECK-LAMBDA-GMSGQMI-EDB-PD-AG-LIMITS has failed,3 - Low,3/19/2026 23:02,Resolved,,AMERICAS,United States of America,,
+INC4170339,2 - High,DIS - DXT - Plasma type update,3 - Low,3/19/2026 23:09,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170344,2 - High,DIS - Entered the wrong weight,3 - Low,3/19/2026 23:14,Resolved,USA - IL - Joliet,AMERICAS,United States of America,USA - IL - Joliet,Joliet
+INC4170348,2 - High,DIS - Unit Processing,3 - Low,3/19/2026 23:15,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170358,2 - High,DIS - DXT - Plasma type update,3 - Low,3/19/2026 23:22,Resolved,USA - UT - Saint George - Dixie Dr,AMERICAS,United States of America,USA - UT - Saint George - Dixie Dr,St George
+INC4170403,2 - High,DIS - Unit Processing,3 - Low,3/19/2026 23:50,Resolved,USA - MD - Towson,AMERICAS,United States of America,USA - MD - Towson,Towson
+INC4170409,2 - High,DIS - Unable to ready labels,3 - Low,3/19/2026 23:51,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170421,2 - High,DIS - Unit Processing,3 - Low,3/19/2026 23:58,Resolved,USA - MO - Springfield - McCurry Ave,AMERICAS,United States of America,USA - MO - Springfield - McCurry Ave,Springfield
+INC4170447,2 - High,DPS - Payment Issue,3 - Low,3/20/2026 0:19,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170460,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 0:26,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170464,2 - High,DIS - HAE - Plasma type update,3 - Low,3/20/2026 0:29,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170506,2 - High,DIS - Boxing Issue,3 - Low,3/20/2026 1:08,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170509,2 - High,\NEW-COPY-OF-CRMD-VVA-ACCOUNT-MERGE\04-ACCOUNT-VEEVA-MERGE\\040-dst_STG_VVA_MERGE_ADDRESS_UPD has failed,3 - Low,3/20/2026 1:09,Resolved,,AMERICAS,United States of America,,
+INC4170512,2 - High,\NEW-COPY-OF-HRIS1D:WORKDAY-TO-GERMANY-DISABILITIES-W2\\005-TDL_TED_RMV_WKDY_DISABILITIES_GS has failed,3 - Low,3/20/2026 1:15,Resolved,,AMERICAS,United States of America,,
+INC4170514,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 1:17,Resolved,USA - MA - Worcester,AMERICAS,United States of America,USA - MA - Worcester,Worcester
+INC4170532,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 1:44,Resolved,USA - MA - Worcester,AMERICAS,United States of America,USA - MA - Worcester,Worcester
+INC4170540,2 - High,DIS - Unable to print label,3 - Low,3/20/2026 1:57,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170541,2 - High,DIS - Unable to print label,3 - Low,3/20/2026 1:57,Resolved,USA - ND - West Fargo,AMERICAS,United States of America,USA - ND - West Fargo,West Fargo
+INC4170542,2 - High,DIS - EDQ Issue,3 - Low,3/20/2026 1:57,Resolved,USA - TX - Universal City,AMERICAS,United States of America,USA - TX - Universal City,Universal City
+INC4170544,2 - High,DIS - Unable to print labels,3 - Low,3/20/2026 2:00,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170561,2 - High,\NEW-COPY-OF-HRIS1D:WORKDAY-TO-GERMANY-DISABILITIES-W2\\030-TDL_TED_DISABILITIES_FILE_CHECK has failed,3 - Low,3/20/2026 2:14,Resolved,,AMERICAS,United States of America,,
+INC4170585,2 - High,\NEW-COPY-OF-HRIS1D:WORKDAY-TO-GERMANY-ORG-ASSIGNMENTS-W2\\030-TDL_TED_ASSIGNMENTS_FILE_CHECK has failed,3 - Low,3/20/2026 2:27,Resolved,,AMERICAS,United States of America,,
+INC4170605,2 - High,<OTHER>AppDynamics has detected a problem with Machine Instance  01049-DEFRATAGCMP001. CPU utilization is too high,3 - Low,3/20/2026 2:41,Resolved,,AMERICAS,United States of America,,
+INC4170643,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 3:32,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170645,2 - High,DIS - HAE - Volumes update,3 - Low,3/20/2026 3:32,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170648,2 - High,DIS - Physical Issue,3 - Low,3/20/2026 3:37,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170662,2 - High,DIS - Unit Processing,3 - Low,3/20/2026 3:58,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170670,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 4:07,Resolved,USA - CA - Fresno,AMERICAS,United States of America,USA - CA - Fresno,Fresno
+INC4170673,2 - High,DIS - HAE - Arm/Machine Update,3 - Low,3/20/2026 4:14,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170682,2 - High,\GMSGQEHS-CAPA-LAMBDA-JOBS\030-LAKE-LAMBDA-CAPA-DATE-DETAILS\\030-RUN-LAKE-LAMBDA-GMSGQEHS-CAPA-DATE-DETAILS has failed,3 - Low,3/20/2026 4:32,Resolved,,AMERICAS,United States of America,,
+INC4170690,2 - High,\NEW-COPY-OF-CRMD-USBU-ADDRS-ALIGNMENT-QC-WKLY\03-STG-VVA-ADDRESS_VOD__C-UPDATE\\040-ADDRESS_UPDATE has failed,3 - Low,3/20/2026 4:38,Resolved,,AMERICAS,United States of America,,
+INC4170692,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 4:44,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170694,2 - High,\GMSGQEHS-CAPA-BASE-DETAILS-GLOBALSCAPE-PUSH\\0101-CAPA-BASE-DETAIL-GLOBALSCAPE-PUSH has failed,3 - Low,3/20/2026 4:45,Resolved,,AMERICAS,United States of America,,
+INC4170697,2 - High,\NEW-COPY-OF-CRMD-VVA-ACCOUNT-MERGE\05-ACCOUNT-VEEVA-POST-MERGE\\050-TF_STG_FF_OMNI_MERGE_REQUEST_ERROR_LOG_OB has failed,3 - Low,3/20/2026 4:48,Resolved,,AMERICAS,United States of America,,
+INC4170698,2 - High,\NEW-COPY-OF-CRMD-MULTICHANNEL_ACCNT_MERGE_ENC\01-VVA-TO-STG-MULTICHANNEL_DATA\\020-T_VVA_STG_ACCNT_VEEVA_REP has failed,3 - Low,3/20/2026 4:49,Resolved,,AMERICAS,United States of America,,
+INC4170699,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 4:51,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170704,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 4:54,Resolved,USA - MO - Springfield - McCurry Ave,AMERICAS,United States of America,USA - MO - Springfield - McCurry Ave,Springfield
+INC4170705,2 - High,DIS - Unit Processing,3 - Low,3/20/2026 4:58,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170706,2 - High,DIS - DXT - Nomogram update ,3 - Low,3/20/2026 5:03,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170708,2 - High,DIS - HAE - Dreason update,3 - Low,3/20/2026 5:04,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170711,2 - High,DIS - Unit Processing,3 - Low,3/20/2026 5:09,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170714,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 5:11,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170719,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 5:16,Resolved,USA - FL - Orlando - Gold,AMERICAS,United States of America,USA - FL - Orlando - Gold,Orlando
+INC4170723,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 5:18,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170727,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 5:28,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170730,2 - High,DIS - EDQ Issue ,3 - Low,3/20/2026 5:30,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170733,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 5:35,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170734,2 - High,DIS - HAE - Plasma type update ,3 - Low,3/20/2026 5:35,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170736,2 - High,DIS - EOD - Plasma type update,3 - Low,3/20/2026 5:39,Resolved,USA - VA - Harrisonburg,AMERICAS,United States of America,USA - VA - Harrisonburg,Harrisonburg
+INC4170739,2 - High,DIS - EOD - Plasma type update,3 - Low,3/20/2026 5:40,Resolved,USA - AR - Fayetteville,AMERICAS,United States of America,USA - AR - Fayetteville,Fayetteville
+INC4170741,2 - High,DIS - DXT - Arm/Machine Update ,3 - Low,3/20/2026 5:41,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170742,2 - High,DIS - EDQ is down,3 - Low,3/20/2026 5:42,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170743,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 5:42,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170759,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 5:50,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170762,2 - High,DIS - EOD - Plasma type update,3 - Low,3/20/2026 5:55,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170763,2 - High,DIS - EOD - Plasma type update,3 - Low,3/20/2026 5:59,Resolved,USA - FL - Casselberry,AMERICAS,United States of America,USA - FL - Casselberry,Casselberry
+INC4170765,2 - High,DIS - EOD - Volumes update ,3 - Low,3/20/2026 6:00,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170766,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 6:01,Resolved,USA - AZ - Phoenix,AMERICAS,United States of America,USA - AZ - Phoenix,Phoenix
+INC4170773,2 - High,DIS - HAE - Plasma type update ,3 - Low,3/20/2026 6:11,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170778,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 6:15,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170780,2 - High,DIS - DXT - Plasma type update/empty box,3 - Low,3/20/2026 6:16,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170787,2 - High,DIS - DXT - Arm/Machine Update,3 - Low,3/20/2026 6:23,Resolved,USA - WI - Milwaukee,AMERICAS,United States of America,USA - WI - Milwaukee,Milwaukee
+INC4170788,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 6:24,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170792,2 - High,DIS - DXT - Plasma type update ,3 - Low,3/20/2026 6:28,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170794,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 6:30,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170797,2 - High,DIS - EOD - All donors not processed ,3 - Low,3/20/2026 6:32,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170798,2 - High,Network Node wBUSAGS01w002.onetakeda.com is Down,3 - Low,3/20/2026 6:33,New,,,,,
+INC4170799,2 - High,DIS - EOD - Volumes update ,3 - Low,3/20/2026 6:34,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170807,2 - High,DIS - EOD - Plasma type update,3 - Low,3/20/2026 6:41,Resolved,USA - KS - Lenexa,AMERICAS,United States of America,USA - KS - Lenexa,Lenexa
+INC4170813,2 - High,DIS - DXT - Arm/Machine Update,3 - Low,3/20/2026 6:48,Resolved,USA - IL - Addison,AMERICAS,United States of America,USA - IL - Addison,Addison
+INC4170815,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 6:50,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170816,2 - High,DIS - EOD - Plasma type update ,3 - Low,3/20/2026 6:51,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170818,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 6:53,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170820,2 - High,DIS - DXT - Volumes update,3 - Low,3/20/2026 6:54,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170822,2 - High,DIS - EOD - Volumes update,3 - Low,3/20/2026 6:55,Resolved,USA - OK - Tulsa,AMERICAS,United States of America,USA - OK - Tulsa,Tulsa
+INC4170834,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 7:05,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170840,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 7:08,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170842,2 - High,DIS - EOD - Plasma type update ,3 - Low,3/20/2026 7:09,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170843,2 - High,DIS - DXT - Volumes update ,3 - Low,3/20/2026 7:11,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170846,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 7:12,Resolved,USA - MO - Springfield - Erie St,AMERICAS,United States of America,USA - MO - Springfield - Erie St,Springfield
+INC4170848,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 7:15,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170850,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 7:18,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170851,2 - High,DIS - DXT - Plasma type update ,3 - Low,3/20/2026 7:19,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170857,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 7:23,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170859,2 - High, DIS - DXT - Plasma type update,3 - Low,3/20/2026 7:26,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170869,2 - High,DIS - DXT - Plasma type update ,3 - Low,3/20/2026 7:40,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170873,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 7:46,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170890,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 8:05,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170891,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 8:06,Resolved,USA - CO - Colorado Springs - Sou,AMERICAS,United States of America,USA - CO - Colorado Springs - Sou,Colorado Springs
+INC4170896,2 - High,DIS - EOD - Plasma type update ,3 - Low,3/20/2026 8:10,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170902,2 - High,DIS - DXT - Volumes update,3 - Low,3/20/2026 8:17,Resolved,USA - AZ - Tucson,AMERICAS,United States of America,USA - AZ - Tucson,Tucson
+INC4170905,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 8:23,Resolved,USA - CA - Modesto,AMERICAS,United States of America,USA - CA - Modesto,Modesto
+INC4170907,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 8:24,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170919,2 - High,DIS - EOD - Arm/Machine Update ,3 - Low,3/20/2026 8:42,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170920,2 - High,DIS - DXT - Plasma type update ,3 - Low,3/20/2026 8:46,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170921,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 8:47,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170939,2 - High,DIS - EOD - Plasma type update ,3 - Low,3/20/2026 9:18,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170950,2 - High,\GMSGQMI-CMO-LAMBDA-JOBS\030-LAKE-LAMBDA-CMO-SHIRE-ERP\\030-RUN-LAKE-LAMBDA-CMO-ERP-SHIRE-ERP has failed,3 - Low,3/20/2026 9:38,Resolved,,AMERICAS,United States of America,,
+INC4170951,2 - High,\GMSGQEHS-RISK-LAMBDA-JOBS\030-LAKE-LAMBDA-RISK-CONTROL-PLAN\\030-RUN-LAKE-LAMBDA-GMSGQEHS-RISK-CONTROL-PLAN has failed,3 - Low,3/20/2026 9:39,Resolved,,AMERICAS,United States of America,,
+INC4170952,2 - High,\GMSGQEHS-EVENTS-LAMBDA-JOBS\030-LAKE-LAMBDA-EVENT-OBSERVATION-TYPE\\030-RUN-LAKE-LAMBDA-GMSGQEHS-EVENT-OBSERVATION-TYPE has failed,3 - Low,3/20/2026 9:39,Resolved,,AMERICAS,United States of America,,
+INC4170953,2 - High,\GMSGQEHS-MOC-LAMBDA-JOBS\030-LAKE-LAMBDA-MOC-CAPA\\030-RUN-LAKE-LAMBDA-GMSGQEHS-MOC-CAPA has failed,3 - Low,3/20/2026 9:39,Resolved,,AMERICAS,United States of America,,
+INC4170955,2 - High,\GMSGQMI-CMO-LAMBDA-JOBS\030-LAKE-LAMBDA-CMO-SHIRE-STABILITY\\030-RUN-LAKE-LAMBDA-CMO-SHIRE-STABILITY has failed,3 - Low,3/20/2026 9:39,Resolved,,AMERICAS,United States of America,,
+INC4170956,2 - High,\GMSGQMI-CMO-LAMBDA-JOBS\030-LAKE-LAMBDA-CMO-SHIRE-SAP\\030-RUN-LAKE-LAMBDA-CMO-SHIRE-SAP has failed,3 - Low,3/20/2026 9:39,Resolved,,AMERICAS,United States of America,,
+INC4170957,2 - High,\GMSGQMI-CMO-LAMBDA-JOBS\030-LAKE-LAMBDA-CMO-TAKEDA-STABILITY\\030-RUN-LAKE-LAMBDA-CMO-TAKEDA-STABILITY has failed,3 - Low,3/20/2026 9:39,Resolved,,AMERICAS,United States of America,,
+INC4170958,2 - High,\GMSGQMI-CMO-LAMBDA-JOBS\030-LAKE-LAMBDA-CMO-TAKEDA-SAP\\030-RUN-LAKE-LAMBDA-CMO-TAKEDA-SAP has failed,3 - Low,3/20/2026 9:39,Resolved,,AMERICAS,United States of America,,
+INC4170961,2 - High,DIS - EOD - Plasma type update ,3 - Low,3/20/2026 9:43,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170963,2 - High,DIS - DXT - Plasma type update ,3 - Low,3/20/2026 9:45,Resolved,USA - CA - Victorville,AMERICAS,United States of America,USA - CA - Victorville,Victorville
+INC4170965,2 - High,DIS - EOD - Plasma type update ,3 - Low,3/20/2026 9:50,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170969,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 9:55,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170971,2 - High,DIS - EOD - Disapproved EDQ ,3 - Low,3/20/2026 10:05,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170977,2 - High,DIS - EOD - Plasma type update ,3 - Low,3/20/2026 10:14,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170982,2 - High,DIS - DXT - Reprocess unit,3 - Low,3/20/2026 10:19,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4170991,2 - High,QM-Tidal-US:\QM_US_APPROVED_LOT_SAP_TO_DIS_RT_DAILY\\QM_US_D_SAP_DIS_RT_DAILY has failed,3 - Low,3/20/2026 10:35,Resolved,,AMERICAS,United States of America,,
+INC4170998,2 - High,\NEW-COPY-OF-CRMD-USBU-ADDRS-ALIGNMENT-QC-WKLY\01-VVA-TO-STG:ADDRESS-REPLICATION-JOB-EXEC\\010-mt_STG_TRUNC_DAILY_TABLE has failed,3 - Low,3/20/2026 10:42,Resolved,,AMERICAS,United States of America,,
+INC4171000,2 - High,\NEW-COPY-OF-CRMLTM-GRANTS-AND-DONATIONS\CRMLTMA-BR:GRANTS-AND-DONATIONS\CRMLTMA-BR-GRANTS-AND-DONATIONS:INBOUND-STREAMS\02-PROCESS-BR-GD-ACTIVITY-BUDGET-INB-DA,3 - Low,3/20/2026 10:44,Resolved,,AMERICAS,United States of America,,
+INC4171003,2 - High,\GMSGQMI-CMO\\040-BDM-WF-GMSGQMI-CMO-LAKE-TO-LAKE-TXN-CMO-STABILITY-CHANGE-LOG-GLBL has failed,3 - Low,3/20/2026 10:46,Resolved,,AMERICAS,United States of America,,
+INC4171004,2 - High,\GMSGQMI-CMO\\040-BDM-WF-GMSGQMI-CMO-LAKE-TO-LAKE-TXN-CMO-PRIMR-CHANGE-LOG-GLBL has failed,3 - Low,3/20/2026 10:47,Resolved,,AMERICAS,United States of America,,
+INC4171011,2 - High,\NEW-COPY-OF-CRMD-VVA-REP-LICENSE-REPORT\02-STG-VVA-LICENSE-REPORT\\010-tf_VVA_STG_VVA_REP_LICENSE_REPORT has failed,3 - Low,3/20/2026 10:52,Resolved,,AMERICAS,United States of America,,
+INC4171034,2 - High,\GMSGQMI-CMO\\040-BDM-WF-GMSGQMI-CMO-LAKE-TO-LAKE-TXN-CMO-LIMS-CHANGE-LOG-GLBL has failed,3 - Low,3/20/2026 11:38,Resolved,,AMERICAS,United States of America,,
+INC4171067,2 - High,\GMSGQMI-GLIMS-CONNECTION\\010-GMSGQMI-GLIMS-CONNECTION-TEST has failed,3 - Low,3/20/2026 12:34,Resolved,,AMERICAS,United States of America,,
+INC4171072,2 - High,\NEW-COPY-OF-CRMD-USBU-ADDRS-ALIGNMENT-QC-WKLY\03-STG-VVA-ADDRESS_VOD__C-UPDATE\\040-ADDRESS_UPDATE has failed,3 - Low,3/20/2026 12:39,Resolved,,AMERICAS,United States of America,,
+INC4171140,2 - High,\WORKDAY-TO-MDM\\005-DELETE-EXISTING-FILE-GS has failed,3 - Low,3/20/2026 14:00,Resolved,,AMERICAS,United States of America,,
+INC4171155,2 - High,\GMSGQMI-CMO\\050-BDM-WF-GMSGQMI-CMO-LAKE-TO-LAKE-TXN-CMO-LIMS-DATA-GLBL has failed,3 - Low,3/20/2026 14:16,Resolved,,AMERICAS,United States of America,,
+INC4171179,2 - High,\NEW-COPY-OF-HRIS3W:WORKDAY-TO-FIDELITY\\030-TDL_TED_FIDELITY_FILE_CHECK has failed,3 - Low,3/20/2026 14:41,Resolved,,AMERICAS,United States of America,,
+INC4171240,2 - High,DIS - Deferral Issue,3 - Low,3/20/2026 15:47,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171289,2 - High,\CONCUR_PAY_TO_SAP_BPR_RSA\\01-PULL_PAY_FILE_FROM_CONCUR has failed,3 - Low,3/20/2026 17:00,Resolved,,AMERICAS,United States of America,,
+INC4171290,2 - High,\GMSGQ-MAF-POOLMAP-STREAMING-CALLBACK-JOB\\010-SHOW-DATABRICKS-JOB-STATUS has failed,3 - Low,3/20/2026 17:00,In Progress,,AMERICAS,United States of America,,
+INC4171291,2 - High,DIS - Unable to print label,3 - Low,3/20/2026 17:01,Resolved,USA - IA - Coralville,AMERICAS,United States of America,USA - IA - Coralville,Coralville
+INC4171338,2 - High,\MDG_NON_FI_IDOC_POST_MDG_1909\\010-CALL_RBDAPP01_MDG_MDG_1909 has failed,3 - Low,3/20/2026 17:56,Resolved,,AMERICAS,United States of America,,
+INC4171345,2 - High,DIS - Deferral Issue,3 - Low,3/20/2026 18:04,Resolved,USA - OK - Oklahoma City,AMERICAS,United States of America,USA - OK - Oklahoma City,Oklahoma City
+INC4171359,2 - High,EDQ - Error  already initiated,3 - Low,3/20/2026 18:16,Resolved,USA - TX - Universal City,AMERICAS,United States of America,USA - TX - Universal City,Universal City
+INC4171407,2 - High,DIS - EDQ Rereview,3 - Low,3/20/2026 19:08,Resolved,USA - GA - Warner Robins,AMERICAS,United States of America,USA - GA - Warner Robins,Warner Robins
+INC4171428,2 - High,DIS - Conflict in donor information,3 - Low,3/20/2026 19:29,Resolved,USA - TX - Austin,AMERICAS,United States of America,USA - TX - Austin,Austin
+INC4171441,2 - High,Hardware type Power Supply of hardware health monitoring on NBsILUSbnc02-AGG is Critical,3 - Low,3/20/2026 19:41,In Progress,,,,,
+INC4171491,2 - High,DIS - Need to remove unit/s - Empty Lab box,3 - Low,3/20/2026 20:08,Resolved,USA - CA - Temecula,AMERICAS,United States of America,USA - CA - Temecula,Temecula
+INC4171493,2 - High,DIS - Unit Processing,3 - Low,3/20/2026 20:12,Resolved,USA - NV - Henderson,AMERICAS,United States of America,USA - NV - Henderson,Henderson
+INC4171510,2 - High,\NEW-COPY-OF-CRMD-VVA-ACCOUNT-MERGE\04-ACCOUNT-VEEVA-MERGE\\040-dst_STG_VVA_MERGE_ADDRESS_UPD has failed,3 - Low,3/20/2026 20:30,Resolved,,AMERICAS,United States of America,,
+INC4171512,2 - High,<POLICY_OPEN_CRITICAL (takeda.saas.appdynamics.com|Node|5449403) - AppDynamics has detected a problem with Machine Instance  01049-DEFRATAGCMP001. ,3 - Low,3/20/2026 20:33,Resolved,,AMERICAS,United States of America,,
+INC4171532,2 - High,DIS - DXT - Nomogram update,3 - Low,3/20/2026 20:46,Resolved,USA - WI - Green Bay - Isbell St,AMERICAS,United States of America,USA - WI - Green Bay - Isbell St,Green Bay
+INC4171561,2 - High,\NEW-COPY-OF-CRMD-MULTICHANNEL_ACCNT_MERGE_ENC\01-VVA-TO-STG-MULTICHANNEL_DATA\\020-T_VVA_STG_ACCNT_VEEVA_REP has failed,3 - Low,3/20/2026 21:06,Resolved,,AMERICAS,United States of America,,
+INC4171574,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 21:16,Resolved,USA - UT - American Fork,AMERICAS,United States of America,USA - UT - American Fork,American Fork
+INC4171576,2 - High,JDE-AWS-C3ME-3-64BIT Agent/Adapter disconnected in USA Tidal Production at 3/20/2026 11:48:09 AM EST,3 - Low,3/20/2026 21:18,Resolved,,AMERICAS,United States of America,,
+INC4171578,2 - High,DIs - Nomogram update,3 - Low,3/20/2026 21:22,Resolved,USA - FL - Tallahassee,AMERICAS,United States of America,USA - FL - Tallahassee,Tallahassee
+INC4171585,2 - High,JDE-AWS-C3ME-3-64BIT Agent/Adapter disconnected in USA Tidal Production at 3/20/2026 11:56:48 AM EST,3 - Low,3/20/2026 21:27,Resolved,,AMERICAS,United States of America,,
+INC4171595,2 - High,\VEEVA_JAPAN\VEEVA_UPLOAD\MC_ACTIVITY_INTERFACE_MEDPEER_MMI_LOG_1_AM_JST\SFTP_MEDPEER_MMI_LOG_GS_IICS\\020-SFTP_GET_GS_TO_IICS_MMI2_CLICK_LOG_0100 has failed,3 - Low,3/20/2026 21:31,Resolved,,AMERICAS,United States of America,,
+INC4171601,2 - High,JDE-AWS-C3ME-3-64BIT Agent/Adapter disconnected in USA Tidal Production at 3/20/2026 12:04:41 PM EST,3 - Low,3/20/2026 21:35,Resolved,,AMERICAS,United States of America,,
+INC4171614,2 - High,DIS - Stuck ,3 - Low,3/20/2026 21:44,Resolved,USA - TX - Houston - North,AMERICAS,United States of America,USA - TX - Houston - North,Houston
+INC4171626,2 - High,DIS - HAE - Plasma type update,3 - Low,3/20/2026 21:56,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171639,2 - High,DIS - HAE - Arm/Machine Update,3 - Low,3/20/2026 22:06,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171644,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 22:09,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171646,2 - High,JDE-AWS-C3ME-3-64BIT Agent/Adapter disconnected in USA Tidal Production at 3/20/2026 12:40:51 PM EST,3 - Low,3/20/2026 22:11,Resolved,,AMERICAS,United States of America,,
+INC4171651,2 - High,DIS - Arm update,3 - Low,3/20/2026 22:17,Resolved,USA - SC - Greenville,AMERICAS,United States of America,USA - SC - Greenville,Greenville
+INC4171662,2 - High,\GMSGQMI-DISCOVERANT-EDB-LAMBDA-JOBS\020-CONTRACT-LAMBDA-EDB-PD-AG-LIMITS\\020-RUN-CONTRACT-CHECK-LAMBDA-GMSGQMI-EDB-PD-AG-LIMITS has failed,3 - Low,3/20/2026 22:31,Resolved,,AMERICAS,United States of America,,
+INC4171673,2 - High,\GMSGQMI-DISCOVERANT-EDB\\010-IICS-TF-GMSGQMI-DISCOVERANT-EDB-PD-NON-LOOPING-SRC-TO-RAW has failed,3 - Low,3/20/2026 22:39,Resolved,,AMERICAS,United States of America,,
+INC4171693,2 - High,Medical Module Issue,3 - Low,3/20/2026 23:06,Resolved,USA - TX - Kyle,AMERICAS,United States of America,USA - TX - Kyle,Kyle
+INC4171710,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 23:28,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171712,2 - High,DIS - DXT - Plasma type update,3 - Low,3/20/2026 23:29,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171714,2 - High,DIS - Unable to print label,3 - Low,3/20/2026 23:32,Resolved,USA - MO - Saint Peters,AMERICAS,United States of America,USA - MO - Saint Peters,St Peters
+INC4171752,2 - High,\COM-CDP-CRM-LAKE-TO-LAKE-DELTA\\160-CDP_CRM-LAKE-TO-LAKE-SMILE_KOL_TACTIC_STAKEHOLDER_TPI has failed,3 - Low,3/21/2026 0:15,Resolved,,AMERICAS,United States of America,,
+INC4171782,2 - High,DIS - Need to remove unit/s - Empty Lab box,3 - Low,3/21/2026 0:50,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171785,2 - High,DIS - DXT - Plasma type update,3 - Low,3/21/2026 0:52,Resolved,USA - UT - American Fork,AMERICAS,United States of America,USA - UT - American Fork,American Fork
+INC4171794,2 - High,DIS - EDQ is down,3 - Low,3/21/2026 1:00,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171798,2 - High,DIS - SPE Issue,3 - Low,3/21/2026 1:05,Resolved,USA - GA - Columbus,AMERICAS,United States of America,USA - GA - Columbus,Columbus
+INC4171800,2 - High,DIS - HAE - Arm Update,3 - Low,3/21/2026 1:06,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171802,2 - High,DIS - DXT - Nomogram update,3 - Low,3/21/2026 1:08,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171813,2 - High,DIS - DXT - Plasma Type update,3 - Low,3/21/2026 1:23,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171814,2 - High,Non Masterfile unit ,3 - Low,3/21/2026 1:23,Resolved,USA - TX - Tyler,AMERICAS,United States of America,USA - TX - Tyler,Tyler
+INC4171817,2 - High,DPS - Payment IssueDPS - Payment Issue,3 - Low,3/21/2026 1:27,Resolved,USA - MI - Grand Rapids,AMERICAS,United States of America,USA - MI - Grand Rapids,Grand Rapids
+INC4171821,2 - High,DIS - DXT - Arm/Machine Update,3 - Low,3/21/2026 1:32,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171843,2 - High,DIS - DXT - Plasma type update,3 - Low,3/21/2026 2:03,Resolved,USA - WI - Milwaukee,AMERICAS,United States of America,USA - WI - Milwaukee,Milwaukee
+INC4171850,2 - High,\NEW-COPY-OF-HRIS1D:WORKDAY-TO-GERMANY-SAP-VISAS-W2\\006-TDL_TED_WKDY_SAP_VISAS has failed,3 - Low,3/21/2026 2:05,Resolved,,AMERICAS,United States of America,,
+INC4171851,2 - High,\GMSGQMI-DISCOVERANT-EDB\\010-IICS-TF-GMSGQMI-DISCOVERANT-EDB-PD-AG-R-DATA-SRC-TO-RAW has failed,3 - Low,3/21/2026 2:05,Resolved,,AMERICAS,United States of America,,
+INC4171852,2 - High,\GMSGQMI-DISCOVERANT-EDB\\010-IICS-TF-GMSGQMI-DISCOVERANT-EDB-PRD-AG-R-DATA-SRC-TO-RAW has failed,3 - Low,3/21/2026 2:05,Resolved,,AMERICAS,United States of America,,
+INC4171853,2 - High,\GMSGQMI-DISCOVERANT-EDB\\010-IICS-TF-GMSGQMI-DISCOVERANT-EDB-PD-AG-D-DATA-SRC-TO-RAW has failed,3 - Low,3/21/2026 2:06,Resolved,,AMERICAS,United States of America,,
+INC4171854,2 - High,DIS - HAE - Volumes update,3 - Low,3/21/2026 2:06,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171858,2 - High,DIS - DXT - Nomogram update,3 - Low,3/21/2026 2:09,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171863,2 - High,DIS - DXT - Plasma Type update,3 - Low,3/21/2026 2:15,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171864,2 - High,DIS - DXT - Plasma type update,3 - Low,3/21/2026 2:16,Resolved,USA - WI - Milwaukee,AMERICAS,United States of America,USA - WI - Milwaukee,Milwaukee
+INC4171872,2 - High,DIS - DXT - Plasma type update,3 - Low,3/21/2026 2:30,Resolved,USA - CA - Bakersfield,AMERICAS,United States of America,USA - CA - Bakersfield,Bakersfield
+INC4171873,2 - High,DIS - DXT - Plasma type update,3 - Low,3/21/2026 2:31,Resolved,USA - CO - Loveland,AMERICAS,United States of America,USA - CO - Loveland,Loveland
+INC4171878,2 - High,DIS - Donor Screening issue,3 - Low,3/21/2026 2:33,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171884,2 - High,DIS - DXT - Plasma type update,3 - Low,3/21/2026 2:35,Resolved,USA - FL - Orlando - Gold,AMERICAS,United States of America,USA - FL - Orlando - Gold,Orlando
+INC4171889,2 - High,DIS - DXT - Volumes update,3 - Low,3/21/2026 2:44,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171893,2 - High,DIS - HAE - Arm/Machine Update ,3 - Low,3/21/2026 2:48,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171896,2 - High,\NEW-COPY-OF-HRIS1D:WORKDAY-TO-GERMANY-SAP-VISAS-W2\10-PUSH-WKDY-SAP-VISAS-FILES-TO-GERMANY\\010-TDL_TED_WKDY_TO_GERMANY_SAP_VISAS has failed,3 - Low,3/21/2026 2:52,Resolved,,AMERICAS,United States of America,,
+INC4171902,2 - High,DIS - DXT - Plasma type update,3 - Low,3/21/2026 3:08,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171907,2 - High,DIS - DXT - ARM Update,3 - Low,3/21/2026 3:12,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171909,2 - High,DIS - DXT - Plasma type update,3 - Low,3/21/2026 3:15,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171919,2 - High,DIS - DXT - Plasma type update,3 - Low,3/21/2026 3:27,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171920,2 - High,DIS - DXT - Plasma Type update,3 - Low,3/21/2026 3:31,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171931,2 - High,DIS - DXT - Plasma type update ,3 - Low,3/21/2026 3:46,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171933,2 - High,DIS - EOD - All donors not processed,3 - Low,3/21/2026 3:47,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171935,2 - High,DIS - DXT - Plasma type update,3 - Low,3/21/2026 3:47,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171936,2 - High,\NEW-COPY-OF-CRMM-VVA-AGGSPEND-OUTBOUND\04-GLOBALSCAPE-FILE-TRANSFER\\010-AGGSPEND-FILE-TRANSFER has failed,3 - Low,3/21/2026 3:48,Resolved,,AMERICAS,United States of America,,
+INC4171946,2 - High,DIS - DXT - Plasma type update,3 - Low,3/21/2026 4:05,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171950,2 - High,DIS - DXT - Plasma Type update,3 - Low,3/21/2026 4:13,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171953,2 - High,DIS - HAE - Plasma Type update,3 - Low,3/21/2026 4:23,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171955,2 - High,DIS - DXT - Plasma Type update,3 - Low,3/21/2026 4:27,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171958,2 - High,DIS - EOD - All donors not processed ,3 - Low,3/21/2026 4:30,Resolved,USA - NY - Bronx - Hunts,AMERICAS,United States of America,USA - NY - Bronx - Hunts,Bronx
+INC4171960,2 - High,DIS - DXT - Plasma Type update,3 - Low,3/21/2026 4:32,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171963,2 - High,\GMSGQEHS-CAPA-LAMBDA-JOBS\030-LAKE-LAMBDA-CAPA-BASE-DETAILS\\030-RUN-LAKE-LAMBDA-GMSGQEHS-CAPA-BASE-DETAILS has failed,3 - Low,3/21/2026 4:33,Resolved,,AMERICAS,United States of America,,
+INC4171973,2 - High,DIS - EOD - Plasma type update,3 - Low,3/21/2026 4:45,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171974,2 - High,DIS - HAE - Volumes update,3 - Low,3/21/2026 4:46,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171975,2 - High,DIS - DXT - Plasma type update,3 - Low,3/21/2026 4:46,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171980,2 - High,DIS - HAE - Plasma Type update,3 - Low,3/21/2026 4:54,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171982,2 - High,DIS - DXT - Plasma type update,3 - Low,3/21/2026 4:55,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171989,2 - High,DIS - EOD - Disapproved EDQ,3 - Low,3/21/2026 5:06,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171990,2 - High,DIS - DXT - Plasma type update,3 - Low,3/21/2026 5:07,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171991,2 - High,<OTHER>\TIDAL-CHECK-US-API-EVERY-30-MIN\\010-GET-DATA-FROM-API has failed,3 - Low,3/21/2026 5:07,Resolved,,AMERICAS,United States of America,,
+INC4171993,2 - High,DIS - Application issue,3 - Low,3/21/2026 5:10,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4171998,2 - High,DIS - HAE - Arm/Machine Update ,3 - Low,3/21/2026 5:15,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172004,2 - High,DIS - HAE - Plasma type update,3 - Low,3/21/2026 5:32,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172006,2 - High,DIS - DXT - Plasma type update,3 - Low,3/21/2026 5:36,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172007,2 - High,DIS - DXT - Plasma type update,3 - Low,3/21/2026 5:37,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172009,2 - High,DIS - DXT - Plasma type update,3 - Low,3/21/2026 5:40,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172010,2 - High,DIS - DXT - Plasma Type update,3 - Low,3/21/2026 5:40,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172012,2 - High,DIS - EOD - Plasma type update,3 - Low,3/21/2026 5:41,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172033,2 - High,DIS - EOD - Plasma type update,3 - Low,3/21/2026 5:50,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172036,2 - High,DIS - DXT - Plasma type update ,3 - Low,3/21/2026 5:53,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172037,2 - High,DIS - DXT - Plasma type update,3 - Low,3/21/2026 5:55,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172039,2 - High,DIS - DXT - Plasma type update,3 - Low,3/21/2026 5:59,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172043,2 - High,DIS - EOD - Disapproved EDQ,3 - Low,3/21/2026 6:04,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172044,2 - High,DIS - HAE - Plasma type update,3 - Low,3/21/2026 6:07,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172045,2 - High,DIS - DXT - Plasma Type update,3 - Low,3/21/2026 6:07,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172047,2 - High,DIS - EOD - Plasma type update ,3 - Low,3/21/2026 6:09,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172052,2 - High,DIS - HAE - Plasma Type update,3 - Low,3/21/2026 6:14,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172053,2 - High,DIS - EOD - Plasma type update,3 - Low,3/21/2026 6:14,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172054,2 - High,DIS - EOD - Destroy Code Update,3 - Low,3/21/2026 6:15,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172055,2 - High,DIS - HAE - Volumes update,3 - Low,3/21/2026 6:17,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172056,2 - High,DIS - HAE - Nomogram update,3 - Low,3/21/2026 6:20,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172057,2 - High,DIS - EOD - Plasma type update,3 - Low,3/21/2026 6:20,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172058,2 - High,DIS - EOD - Plasma type update ,3 - Low,3/21/2026 6:21,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172060,2 - High,DIS - HAE - Plasma Type update,3 - Low,3/21/2026 6:21,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172062,2 - High,DIS - EOD - Plasma type update,3 - Low,3/21/2026 6:26,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172064,2 - High,DIS - DXT - Plasma type update ,3 - Low,3/21/2026 6:30,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172065,2 - High,DIS - HAE - Plasma Type update,3 - Low,3/21/2026 6:33,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172072,2 - High,DIS - HAE - Arm/Machine Update,3 - Low,3/21/2026 6:47,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172073,2 - High,DIS - EOD - Plasma type update ,3 - Low,3/21/2026 6:54,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172080,2 - High,DIS - DXT - Plasma type update,3 - Low,3/21/2026 7:09,Resolved,USA - TX - North Richland Hills,AMERICAS,United States of America,USA - TX - North Richland Hills,North Richland Hills
+INC4172083,2 - High,<OTHER>\TIDAL-CHECK-API-EVERY-30-MIN\\010-GET-DATA-FROM-API has failed,3 - Low,3/21/2026 7:15,Resolved,,AMERICAS,United States of America,,
+INC4172084,2 - High,DIS - DXT - Volumes update ,3 - Low,3/21/2026 7:17,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172088,2 - High,DIS - DXT - Plasma type update,3 - Low,3/21/2026 7:18,Resolved,USA - TX - Universal City,AMERICAS,United States of America,USA - TX - Universal City,Universal City
+INC4172089,2 - High,\GMSGQMI-CDB-BIRDVIEW-POOLMAP-SRC-TO-LAKE-DAILY-LOAD-CALLBACK\\010-CDB-SHOW-DATABRICKS-JOB-STATUS has failed,3 - Low,3/21/2026 7:19,New,,AMERICAS,United States of America,,
+INC4172092,2 - High,\GMSGQMI-SIMATIC-IT-XFP-BR-LIVE-INCR-DATABRICKS-CALLBACKS-JOB-GROUP\\010-SHOW-DATABRICKS-JOB-STATUS has failed,3 - Low,3/21/2026 7:20,Resolved,,AMERICAS,United States of America,,
+INC4172095,2 - High,DIS - EOD - Plasma type update ,3 - Low,3/21/2026 7:22,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172100,2 - High,DIS - DXT - Plasma type update,3 - Low,3/21/2026 7:27,Resolved,USA - TX - North Richland Hills,AMERICAS,United States of America,USA - TX - North Richland Hills,North Richland Hills
+INC4172101,2 - High,DIS - EOD - Plasma type update,3 - Low,3/21/2026 7:30,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172111,2 - High,DIS - DXT - Volumes update/no take,3 - Low,3/21/2026 7:42,Resolved,USA - OK - Tulsa,AMERICAS,United States of America,USA - OK - Tulsa,Tulsa
+INC4172119,2 - High,DIS - DXT - Plasma type update,3 - Low,3/21/2026 8:08,Resolved,USA - MN - Mounds View,AMERICAS,United States of America,USA - MN - Mounds View,Mounds View
+INC4172124,2 - High,DIS - EOD - Plasma type update,3 - Low,3/21/2026 8:23,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172127,2 - High,DIS - DXT - Plasma Type update,3 - Low,3/21/2026 8:29,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172128,2 - High,DIS - DXT - Volumes update,3 - Low,3/21/2026 8:32,Resolved,USA - UT - Orem,AMERICAS,United States of America,USA - UT - Orem,Orem
+INC4172133,2 - High,DIS - EOD - Plasma type update,3 - Low,3/21/2026 8:35,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172134,2 - High,DIS - DXT - Plasma type update ,3 - Low,3/21/2026 8:40,Resolved,USA - TX - San Antonio,AMERICAS,United States of America,USA - TX - San Antonio,San Antonio
+INC4172137,2 - High,DIS - EOD - Plasma type update,3 - Low,3/21/2026 8:44,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172138,2 - High,DIS - EOD - Plasma type update ,3 - Low,3/21/2026 8:45,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172144,2 - High,DIS - EOD - Plasma type update,3 - Low,3/21/2026 9:14,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172150,2 - High,DIS - DXT - Plasma type update,3 - Low,3/21/2026 9:34,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172157,2 - High,\GMSGQEHS-MOC-LAMBDA-JOBS\030-LAKE-LAMBDA-MOC-CAPA\\030-RUN-LAKE-LAMBDA-GMSGQEHS-MOC-CAPA has failed,3 - Low,3/21/2026 9:37,Resolved,,AMERICAS,United States of America,,
+INC4172158,2 - High,\GMSGQEHS-MOC-LAMBDA-JOBS\030-LAKE-LAMBDA-MOC-TASKS\\030-RUN-LAKE-LAMBDA-GMSGQEHS-MOC-TASKS has failed,3 - Low,3/21/2026 9:37,Resolved,,AMERICAS,United States of America,,
+INC4172160,2 - High,\GMSGQMI-CMO-LAMBDA-JOBS\030-LAKE-LAMBDA-CMO-SHIRE-SAP\\030-RUN-LAKE-LAMBDA-CMO-SHIRE-SAP has failed,3 - Low,3/21/2026 9:37,Resolved,,AMERICAS,United States of America,,
+INC4172161,2 - High,\GMSGQMI-CMO-LAMBDA-JOBS\030-LAKE-LAMBDA-CMO-SHIRE-STABILITY\\030-RUN-LAKE-LAMBDA-CMO-SHIRE-STABILITY has failed,3 - Low,3/21/2026 9:37,Resolved,,AMERICAS,United States of America,,
+INC4172162,2 - High,\GMSGQMI-CMO-LAMBDA-JOBS\030-LAKE-LAMBDA-CMO-SHIRE-ERP\\030-RUN-LAKE-LAMBDA-CMO-ERP-SHIRE-ERP has failed,3 - Low,3/21/2026 9:38,Resolved,,AMERICAS,United States of America,,
+INC4172165,2 - High,DIS - EOD - Plasma type update,3 - Low,3/21/2026 9:40,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172170,2 - High,\VEEVA_JAPAN\VEEVA_UPLOAD\MC_ACTIVITY_INTERFACE_MEDPEER_1_PM_JST\SFTP_MEDPEER2_GS_IICS\\040-MEDPEER2_FILE_TRANSFER_2 has failed,3 - Low,3/21/2026 9:46,Resolved,,AMERICAS,United States of America,,
+INC4172193,2 - High,QM-Tidal-US:\QM_US_APPROVED_LOT_SAP_TO_DIS_RT_DAILY\\QM_US_D_SAP_DIS_RT_DAILY has failed,3 - Low,3/21/2026 10:35,Resolved,,AMERICAS,United States of America,,
+INC4172195,2 - High,\CDP-KOKORO-MDM-RAW-LAND-AUDIT-FRAMEWORK\050-CDP-KOKORO-MDM-DATAEZ-RAW-LND\\030-MONITOR-DATABRICKS-RUN has failed,3 - Low,3/21/2026 10:37,Resolved,,AMERICAS,United States of America,,
+INC4172201,2 - High,\NEW-COPY-OF-CRMD-VVA-REP-LICENSE-REPORT\02-STG-VVA-LICENSE-REPORT\\010-tf_VVA_STG_VVA_REP_LICENSE_REPORT has failed,3 - Low,3/21/2026 10:55,Resolved,,AMERICAS,United States of America,,
+INC4172228,2 - High,\GMSGQMI-CMO\\040-BDM-WF-GMSGQMI-CMO-LAKE-TO-LAKE-TXN-CMO-STABILITY-CHANGE-LOG-GLBL has failed,3 - Low,3/21/2026 11:54,In Progress,,AMERICAS,United States of America,,
+INC4172248,2 - High,\GMSGQMI-GLIMS-CONNECTION\\010-GMSGQMI-GLIMS-CONNECTION-TEST has failed,3 - Low,3/21/2026 12:46,Resolved,,AMERICAS,United States of America,,
+INC4172259,2 - High,\NEW-COPY-OF-CRMD-EPSILON-DLY\01-VVA-STG-FILE:REPLICA_DATA\\012-WF_STG_FF_EMAIL_EPSILON has failed,3 - Low,3/21/2026 13:30,Resolved,,AMERICAS,United States of America,,
+INC4172262,2 - High,\GMSGQMI-MAXIMO-LAMBDA-JOBS\020-CONTRACT-LAMBDA-MAXIMO-LABTRANS\\020-RUN-CONTRACT-CHECK-LAMBDA-GMSGQMI-MAXIMO-LABTRANS has failed,3 - Low,3/21/2026 13:34,Resolved,,AMERICAS,United States of America,,
+INC4172273,2 - High,\GMSGQMI-CMO\\050-BDM-WF-GMSGQMI-CMO-LAKE-TO-LAKE-TXN-CMO-LIMS-DATA-GLBL has failed,3 - Low,3/21/2026 14:00,In Progress,,AMERICAS,United States of America,,
+INC4172340,2 - High,\GTN_OUTBOUND_SAP_BPR_RSA\\02-PUSH_OUTBOUND_FILE_TO_GTN has failed,3 - Low,3/21/2026 16:28,Resolved,,AMERICAS,United States of America,,
+INC4172356,2 - High,DIS - EDQ Issue,3 - Low,3/21/2026 16:53,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172358,2 - High,\CONCUR_PAY_TO_SAP_BPR_RSA\\01-PULL_PAY_FILE_FROM_CONCUR has failed,3 - Low,3/21/2026 17:00,Resolved,,AMERICAS,United States of America,,
+INC4172379,2 - High,DIS - Boxing Issue,3 - Low,3/21/2026 17:52,Resolved,USA - TX - San Antonio - New Ave,AMERICAS,United States of America,USA - TX - San Antonio - New Ave,San Antonio
+INC4172397,2 - High,DIS - HAE - Arm/Machine Update,3 - Low,3/21/2026 18:12,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172435,2 - High,DIS - No take showing as processed,3 - Low,3/21/2026 18:42,Resolved,USA - GA - Warner Robins,AMERICAS,United States of America,USA - GA - Warner Robins,Warner Robins
+INC4172441,2 - High,\NEW-COPY-OF-FIND:JAPAN_TO_CONCUR_HCP-RSA\\002-PUSH_HCP_FILE_FROM_GLOBALSCAPE_TO_CONCUR has failed,3 - Low,3/21/2026 18:45,Resolved,,AMERICAS,United States of America,,
+INC4172447,2 - High,\NEW-COPY-OF-HRIS1D:WORKDAY-TO-TM1-SATURDAY\\010-GLOBALSCAPE-WORKDAY-FILE-DECRYPTION-AND-MOVE-TO-TM1 has failed,3 - Low,3/21/2026 18:50,Resolved,,AMERICAS,United States of America,,
+INC4172453,2 - High,DIS - Unit Processing,3 - Low,3/21/2026 19:03,Resolved,USA - FL - Orlando - Gold,AMERICAS,United States of America,USA - FL - Orlando - Gold,Orlando
+INC4172457,2 - High,DIS  - Full unit rocess on Sample prep,3 - Low,3/21/2026 19:17,Resolved,USA - IL - Villa Park,AMERICAS,United States of America,USA - IL - Villa Park,Villa Park
+INC4172461,2 - High,DIS - DXT - Arm/Machine Update,3 - Low,3/21/2026 19:23,Resolved,USA - MI - Ypsilanti,AMERICAS,United States of America,USA - MI - Ypsilanti,Ypsilanti
+INC4172468,2 - High,DIS - HAE - Volumes update,3 - Low,3/21/2026 19:42,Resolved,USA - NC - Greensboro,AMERICAS,United States of America,USA - NC - Greensboro,Greensboro
+INC4172472,2 - High,DIS - Arm/Machine Update,3 - Low,3/21/2026 19:52,Resolved,USA - TN - Mount Juliet,AMERICAS,United States of America,USA - TN - Mount Juliet,Mount Juliet
+INC4172474,2 - High,DIS - Unit Processiing,3 - Low,3/21/2026 19:57,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172487,2 - High,DIS - No Take ,3 - Low,3/21/2026 20:27,Resolved,USA - VA - Chesapeake,AMERICAS,United States of America,USA - VA - Chesapeake,Chesapeake
+INC4172513,2 - High,DIS - DXT - Plasma type update,3 - Low,3/21/2026 21:26,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172516,2 - High,\VEEVA_JAPAN\VEEVA_UPLOAD\MC_ACTIVITY_INTERFACE_MEDPEER_MMI_LOG_1_AM_JST\SFTP_MEDPEER_MMI_LOG_GS_IICS\\020-SFTP_GET_GS_TO_IICS_MMI2_CLICK_LOG_0100 has failed,3 - Low,3/21/2026 21:31,Resolved,,AMERICAS,United States of America,,
+INC4172525,2 - High,DIS - DXT - Plasma type update,3 - Low,3/21/2026 21:45,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172526,2 - High,\VEEVA_JAPAN\VEEVA_UPLOAD\MC_ACTIVITY_INTERFACE_MEDPEER_MMI_LOG_1_AM_JST\SFTP_MEDPEER_MMI_LOG_GS_IICS\\040-RENAME-SRC-FILES-MEDPEER-MMI-0100 has failed,3 - Low,3/21/2026 21:46,Resolved,,AMERICAS,United States of America,,
+INC4172530,2 - High,DIS - RBC Loss,3 - Low,3/21/2026 21:55,Resolved,USA - TX - San Antonio - New Ave,AMERICAS,United States of America,USA - TX - San Antonio - New Ave,San Antonio
+INC4172532,2 - High,DIs - No Take,3 - Low,3/21/2026 22:02,Resolved,USA - TX - Dallas,AMERICAS,United States of America,USA - TX - Dallas,Dallas
+INC4172535,2 - High,DIS - HAE - Plasma type update,3 - Low,3/21/2026 22:05,Resolved,USA - GA - McDonough,AMERICAS,United States of America,USA - GA - McDonough,McDonough
+INC4172538,2 - High,DIS - Unit Procecssing,3 - Low,3/21/2026 22:13,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172541,2 - High,DIS - Unit Processing,3 - Low,3/21/2026 22:19,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172546,2 - High,DIS No take  showing as a void,3 - Low,3/21/2026 22:24,Resolved,USA - WI - Green Bay - Finger Rd,AMERICAS,United States of America,USA - WI - Green Bay - Finger Rd,Green Bay
+INC4172568,2 - High,\GMSGQMI-DISCOVERANT-EDB-LAMBDA-JOBS\020-CONTRACT-LAMBDA-EDB-PD-AG-LIMITS\\020-RUN-CONTRACT-CHECK-LAMBDA-GMSGQMI-EDB-PD-AG-LIMITS has failed,3 - Low,3/21/2026 22:51,Resolved,,AMERICAS,United States of America,,
+INC4172578,2 - High,DIS - Plasma Boxing Issue,3 - Low,3/21/2026 23:10,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172581,2 - High,DIS - DXT - Plasma type update,3 - Low,3/21/2026 23:18,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172582,2 - High,DIS - Unit Processing,3 - Low,3/21/2026 23:21,Resolved,USA - CO - Aurora,AMERICAS,United States of America,USA - CO - Aurora,Aurora
+INC4172587,2 - High,DIS - HAE - Arm/Machine Update,3 - Low,3/21/2026 23:31,Resolved,USA - CO - Thornton,AMERICAS,United States of America,USA - CO - Thornton,Thornton
+INC4172591,2 - High,DIS - Unit Processing,3 - Low,3/21/2026 23:36,Resolved,USA - WA - Pasco,AMERICAS,United States of America,USA - WA - Pasco,Pasco
+INC4172593,2 - High,DEP - Manual account wipe,3 - Low,3/21/2026 23:42,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172602,2 - High,\VEEVA_JAPAN\VEEVA_UPLOAD\USER_TERRITORY_DI\04-USER_DI\\160-USER_UPSERT_UPD_EM_FIELD has failed,3 - Low,3/22/2026 0:07,Resolved,,AMERICAS,United States of America,,
+INC4172632,2 - High,DIS - DXT - Plasma type update,3 - Low,3/22/2026 0:53,Resolved,USA - CA - Fresno,AMERICAS,United States of America,USA - CA - Fresno,Fresno
+INC4172641,2 - High,DIS - DXT - Arm/Machine Update,3 - Low,3/22/2026 1:04,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172643,2 - High,DIS - DXT - Plasma Type update,3 - Low,3/22/2026 1:06,Resolved,USA - WA - Pasco,AMERICAS,United States of America,USA - WA - Pasco,Pasco
+INC4172648,2 - High,DIS - HAE - Arm Update,3 - Low,3/22/2026 1:21,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172651,2 - High,DIS - DXT - Volumes update,3 - Low,3/22/2026 1:24,Resolved,USA - MD - Baltimore - West,AMERICAS,United States of America,USA - MD - Baltimore - West,Baltimore
+INC4172652,2 - High,DIS - DXT - Arm Update,3 - Low,3/22/2026 1:29,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172656,2 - High,DIS - DXT - ARM Update,3 - Low,3/22/2026 1:32,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172659,2 - High,\NEW-COPY-OF-CONCUR-DAILY-MDG-INTEGRATION-RSA\03-MOVE-ATTENDEE-EM-FILE-FROM-SFPAC-TO-CONCUR\\060-ATTENDEE-EM-FILE-TO-CONCUR-FROM-GLOBALSCAPE has failed,3 - Low,3/22/2026 1:36,Resolved,,AMERICAS,United States of America,,
+INC4172660,2 - High,DIS - DXT - Data Missing,3 - Low,3/22/2026 1:39,Resolved,USA - MA - West Springfield,AMERICAS,United States of America,USA - MA - West Springfield,West Springfield
+INC4172665,2 - High,DIS - HAE - Arm update,3 - Low,3/22/2026 1:43,Resolved,USA - CO - Thornton,AMERICAS,United States of America,USA - CO - Thornton,Thornton
+INC4172666,2 - High,DIS - DXT - ARM Update,3 - Low,3/22/2026 1:46,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172667,2 - High,DIS - HAE - Arm update,3 - Low,3/22/2026 1:48,Resolved,USA - WI - Milwaukee,AMERICAS,United States of America,USA - WI - Milwaukee,Milwaukee
+INC4172675,2 - High,\FIND:EUSAP-COSTCENTERS-TO-CONCUR-RSA\\010-XFER-EU-CC-GPG-FILES-TO-CONCUR-FROM-GLOBALSCAPE has failed,3 - Low,3/22/2026 1:55,Resolved,,AMERICAS,United States of America,,
+INC4172677,2 - High,DIS - DXT - Plasma type update,3 - Low,3/22/2026 2:00,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172681,2 - High,DIS - HAE - Plasma type update,3 - Low,3/22/2026 2:09,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172682,2 - High,DIS - DXT - Plasma type update,3 - Low,3/22/2026 2:10,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172684,2 - High,DIS - DXT - Plasma type update,3 - Low,3/22/2026 2:13,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172694,2 - High,DIS - EOD - Plasma type update,3 - Low,3/22/2026 2:16,Resolved,USA - WI - Fond du Lac,AMERICAS,United States of America,USA - WI - Fond du Lac,Fond du Lac
+INC4172697,2 - High,DIS - EOD - Plasma type update,3 - Low,3/22/2026 2:22,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172699,2 - High,DIS - EOD - Plasma type update,3 - Low,3/22/2026 2:24,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172700,2 - High,DIS - DXT - Plasma type update,3 - Low,3/22/2026 2:26,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172701,2 - High,DIS - DXT - Plasma Type update,3 - Low,3/22/2026 2:27,Resolved,USA - OK - Tulsa,AMERICAS,United States of America,USA - OK - Tulsa,Tulsa
+INC4172702,2 - High,DIS - DXT - Plasma Type update,3 - Low,3/22/2026 2:29,Resolved,USA - CA - Modesto,AMERICAS,United States of America,USA - CA - Modesto,Modesto
+INC4172705,2 - High,DIS-Unable to Check In Donor ,3 - Low,3/22/2026 2:32,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172708,2 - High,DIS - DXT - Destroy Code Update,3 - Low,3/22/2026 2:33,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172712,2 - High,DIS - DXT - Plasma Type update,3 - Low,3/22/2026 2:41,Resolved,USA - FL - Orlando - Gold,AMERICAS,United States of America,USA - FL - Orlando - Gold,Orlando
+INC4172719,2 - High,DIS - EOD - Disapproved EDQ,3 - Low,3/22/2026 2:52,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172720,2 - High,DIS - DXT - Plasma type update,3 - Low,3/22/2026 2:52,Resolved,USA - ID - Hayden,AMERICAS,United States of America,USA - ID - Hayden,Hayden
+INC4172721,2 - High,DIS - EOD - All donors not processed,3 - Low,3/22/2026 2:55,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172722,2 - High,DIS - DXT - Plasma type update,3 - Low,3/22/2026 2:58,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172723,2 - High,DIS - DXT - Plasma type update,3 - Low,3/22/2026 2:58,Resolved,USA - FL - Largo,AMERICAS,United States of America,USA - FL - Largo,Largo
+INC4172725,2 - High,DIS - Unit Update,3 - Low,3/22/2026 3:01,Resolved,USA - MO - Saint Peters,AMERICAS,United States of America,USA - MO - Saint Peters,St Peters
+INC4172727,2 - High,DIS - DXT - Volumes update,3 - Low,3/22/2026 3:06,Resolved,USA - OK - Tulsa,AMERICAS,United States of America,USA - OK - Tulsa,Tulsa
+INC4172730,2 - High,DIS - DXT - Nomogram update,3 - Low,3/22/2026 3:10,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172732,2 - High,DIS - HAE - Volumes update,3 - Low,3/22/2026 3:13,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172733,2 - High,DIS - EOD - Plasma type update,3 - Low,3/22/2026 3:13,Resolved,USA - CO - Colorado Springs,AMERICAS,United States of America,USA - CO - Colorado Springs,Colorado Springs
+INC4172738,2 - High,DIS - DXT - Volumes update,3 - Low,3/22/2026 3:28,Resolved,USA - LA - Lafayette,AMERICAS,United States of America,USA - LA - Lafayette,Lafayette
+INC4172743,2 - High,DIS - HAE - Nomogram update,3 - Low,3/22/2026 3:32,Resolved,USA - CO - Loveland,AMERICAS,United States of America,USA - CO - Loveland,Loveland
+INC4172750,2 - High,DIS - DXT - Plasma type update ,3 - Low,3/22/2026 3:43,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172751,2 - High,DIS - HAE - Volumes update,3 - Low,3/22/2026 3:47,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172753,2 - High,DIS - DXT - Plasma type update,3 - Low,3/22/2026 3:49,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172758,2 - High,DIS - DXT - Plasma Type update,3 - Low,3/22/2026 4:01,Resolved,USA - WA - Vancouver,AMERICAS,United States of America,USA - WA - Vancouver,Vancouver
+INC4172763,2 - High,DIS - EOD - Plasma type update,3 - Low,3/22/2026 4:08,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172764,2 - High,DIS - DXT - Plasma type update,3 - Low,3/22/2026 4:09,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172765,2 - High,DIS - DXT - Plasma Type update,3 - Low,3/22/2026 4:11,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172768,2 - High,DIS - DXT - Plasma Type update,3 - Low,3/22/2026 4:17,Resolved,USA - WA - Pasco,AMERICAS,United States of America,USA - WA - Pasco,Pasco
+INC4172769,2 - High,DIS - DXT - Plasma type update,3 - Low,3/22/2026 4:17,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172775,2 - High,DIS - EOD - Plasma type update,3 - Low,3/22/2026 4:28,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172786,2 - High,DIS - DXT - Plasma type update,3 - Low,3/22/2026 4:47,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172787,2 - High,DIS - EOD - Plasma type update,3 - Low,3/22/2026 4:47,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172792,2 - High,DIS - DXT - Volumes update,3 - Low,3/22/2026 4:53,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172800,2 - High,DIS - DXT - Volumes update,3 - Low,3/22/2026 5:29,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172807,2 - High,DIS - DXT - Volumes update ,3 - Low,3/22/2026 5:39,Resolved,USA - AZ - Tucson - Auto,AMERICAS,United States of America,USA - AZ - Tucson - Auto,Tucson
+INC4172809,2 - High,DIS – EOD - Disconnect PIN  ,3 - Low,3/22/2026 5:45,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172838,2 - High,DIS - DXT - Plasma Type update,3 - Low,3/22/2026 6:09,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172840,2 - High,DIS - EOD - Disapproved EDQ,3 - Low,3/22/2026 6:18,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172851,2 - High,DIS - DXT - Plasma Type update,3 - Low,3/22/2026 7:06,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4172859,2 - High,\PDT-GLOBALSCAPE-CERIDIAN-EXPORT-DAILY\\010-COPY-ACTUAL-DAILY-TO-SFTP has failed,3 - Low,3/22/2026 8:45,Resolved,,AMERICAS,United States of America,,
+INC4172866,2 - High,\GMSGQEHS-RISK-LAMBDA-JOBS\030-LAKE-LAMBDA-RISK-CONTROLS\\030-RUN-LAKE-LAMBDA-GMSGQEHS-RISK-CONTROLS has failed,3 - Low,3/22/2026 9:36,Resolved,,AMERICAS,United States of America,,
+INC4172868,2 - High,\GMSGQMI-CMO-LAMBDA-JOBS\030-LAKE-LAMBDA-CMO-SHIRE-STABILITY\\030-RUN-LAKE-LAMBDA-CMO-SHIRE-STABILITY has failed,3 - Low,3/22/2026 9:37,Resolved,,AMERICAS,United States of America,,
+INC4172878,2 - High,\GMSGQMI-CMO\\040-BDM-WF-GMSGQMI-CMO-LAKE-TO-LAKE-TXN-CMO-STABILITY-CHANGE-LOG-GLBL has failed,3 - Low,3/22/2026 10:24,In Progress,,AMERICAS,United States of America,,
+INC4172890,2 - High,\NEW-COPY-OF-CRMD-VVA-REP-LICENSE-REPORT\02-STG-VVA-LICENSE-REPORT\\010-tf_VVA_STG_VVA_REP_LICENSE_REPORT has failed,3 - Low,3/22/2026 10:53,Resolved,,AMERICAS,United States of America,,
+INC4172891,2 - High,\GMSGQMI-CMO\\040-BDM-WF-GMSGQMI-CMO-LAKE-TO-LAKE-TXN-CMO-ERP-CHANGE-LOG-GLBL has failed,3 - Low,3/22/2026 10:54,In Progress,,AMERICAS,United States of America,,
+INC4172916,2 - High,\GMSGQMI-CMO\\050-BDM-WF-GMSGQMI-CMO-LAKE-TO-LAKE-TXN-CMO-LIMS-DATA-GLBL has failed,3 - Low,3/22/2026 11:56,In Progress,,AMERICAS,United States of America,,
+INC4172924,2 - High,\GMSGQMI-GLIMS-CONNECTION\\010-GMSGQMI-GLIMS-CONNECTION-TEST has failed,3 - Low,3/22/2026 12:34,Resolved,,AMERICAS,United States of America,,
+INC4172931,2 - High,\NEW-COPY-OF-HRIS1D:WORKDAY-TO-TM1\\010-GLOBALSCAPE-WORKDAY-FILE-DECRYPTION-AND-MOVE-TO-TM1 has failed,3 - Low,3/22/2026 13:50,Resolved,,AMERICAS,United States of America,,
+INC4172981,2 - High,DIS - Unable to print label,3 - Low,3/22/2026 17:30,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173017,2 - High,DIS - HAE - Source Designated ,3 - Low,3/22/2026 18:50,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173022,2 - High,DIS - DXT - Plasma type update,3 - Low,3/22/2026 19:11,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173024,2 - High,DIS - HAE - Data Missing,3 - Low,3/22/2026 19:13,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173054,2 - High,DIS - DXT - Nomogram update,3 - Low,3/22/2026 20:36,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173065,2 - High,DIS - DXT - Volumes update,3 - Low,3/22/2026 20:57,Resolved,USA - IA - Ames,AMERICAS,United States of America,USA - IA - Ames,Ames
+INC4173070,2 - High,DIS - Physical Issue,3 - Low,3/22/2026 21:02,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173077,2 - High,DIS - EDQ Sync issue,3 - Low,3/22/2026 21:28,Resolved,USA - OK - Del City,AMERICAS,United States of America,USA - OK - Del City,Del City
+INC4173079,2 - High,\VEEVA_JAPAN\VEEVA_UPLOAD\MC_ACTIVITY_INTERFACE_MEDPEER_MMI_LOG_1_AM_JST\SFTP_MEDPEER_MMI_LOG_GS_IICS\\020-SFTP_GET_GS_TO_IICS_MMI2_CLICK_LOG_0100 has failed,3 - Low,3/22/2026 21:31,Resolved,,AMERICAS,United States of America,,
+INC4173081,2 - High,\VEEVA_JAPAN\VEEVA_UPLOAD\HOKUTO\\030-FF_LDG_HOKUTO has failed,3 - Low,3/22/2026 21:32,Resolved,,AMERICAS,United States of America,,
+INC4173083,2 - High,\MDM_IDQ\08-MULTICHANNEL_IICS_TO_DWH_FILETRANSFER\03-MULTICHANNEL_IICS_TO_DWH_FILETRANSFER_MEDPEER\\020-MULTICHANNEL_FILE_RENAME_MEDPEER has failed,3 - Low,3/22/2026 21:37,Resolved,,AMERICAS,United States of America,,
+INC4173085,2 - High,EDQ- unable to review,3 - Low,3/22/2026 21:41,Resolved,USA - WI - Green Bay - Finger Rd,AMERICAS,United States of America,USA - WI - Green Bay - Finger Rd,Green Bay
+INC4173098,2 - High,<OTHER>\TIDAL-CHECK-US-API-EVERY-30-MIN\\010-GET-DATA-FROM-API has failed,3 - Low,3/22/2026 22:10,Resolved,,AMERICAS,United States of America,,
+INC4173101,2 - High,\VEEVA_JAPAN\VEEVA_UPLOAD\MC_ACTIVITY_INTERFACE_MEDPEER_MMI_LOG_1_AM_JST\SFTP_MEDPEER_MMI_LOG_GS_IICS\\040-RENAME-SRC-FILES-MEDPEER-MMI-0100 has failed,3 - Low,3/22/2026 22:13,Resolved,,AMERICAS,United States of America,,
+INC4173103,2 - High,DIS - DXT - Plasma type update,3 - Low,3/22/2026 22:20,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173104,2 - High,DIS - DXT - Arm/Machine Update,3 - Low,3/22/2026 22:20,Resolved,USA - MO - Saint Peters,AMERICAS,United States of America,USA - MO - Saint Peters,St Peters
+INC4173114,2 - High,DIS - Unit Processing,3 - Low,3/22/2026 22:36,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173118,2 - High,DIS - DXT - Plasma type update,3 - Low,3/22/2026 22:42,Resolved,USA - FL - Largo,AMERICAS,United States of America,USA - FL - Largo,Largo
+INC4173121,2 - High,DIS - Unit Processing,3 - Low,3/22/2026 22:50,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173125,2 - High,DIS - HAE - Arm/Machine Update,3 - Low,3/22/2026 22:57,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173129,2 - High,DIS - HAE - Arm/Machine Update,3 - Low,3/22/2026 23:05,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173132,2 - High,DIS -Full unit  ,3 - Low,3/22/2026 23:16,Resolved,USA - IL - Fairview Heights,AMERICAS,United States of America,USA - IL - Fairview Heights,Fairview Heights
+INC4173135,2 - High,DIS - Unit Processing,3 - Low,3/22/2026 23:28,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173146,2 - High,DIS - DXT - Plasma type update,3 - Low,3/22/2026 23:59,Resolved,USA - UT - Ogden,AMERICAS,United States of America,USA - UT - Ogden,Ogden
+INC4173155,2 - High,DIS - DXT - Plasma type update,3 - Low,3/23/2026 0:12,Resolved,USA - OK - Broken Arrow,AMERICAS,United States of America,USA - OK - Broken Arrow,Broken Arrow
+INC4173159,2 - High,DIS - DXT - Plasma type update,3 - Low,3/23/2026 0:24,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173170,2 - High,DIS - HAE - Plasma type update,3 - Low,3/23/2026 0:40,Resolved,USA - MD - Towson,AMERICAS,United States of America,USA - MD - Towson,Towson
+INC4173186,2 - High,DIS - DXT - Plasma Type update,3 - Low,3/23/2026 1:10,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173187,2 - High,DIS -  Unit Processing,3 - Low,3/23/2026 1:10,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173188,2 - High,DIS - DXT - Plasma type update,3 - Low,3/23/2026 1:10,Resolved,USA - TX - Denton,AMERICAS,United States of America,USA - TX - Denton,Denton
+INC4173201,2 - High,DIS - DXT - Plasma type update,3 - Low,3/23/2026 1:47,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173203,2 - High,DIS - HAE - Arm update,3 - Low,3/23/2026 1:55,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173207,2 - High,DIS - DXT - Plasma type update ,3 - Low,3/23/2026 1:58,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173208,2 - High,DIS - DXT - Plasma type update,3 - Low,3/23/2026 1:59,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173212,2 - High,DIS - DXT - Plasma type update ,3 - Low,3/23/2026 2:03,Resolved,USA - IN - Fort Wayne - Getz Rd,AMERICAS,United States of America,USA - IN - Fort Wayne - Getz Rd,Fort Wayne
+INC4173213,2 - High,DIS - Boxing Issue,3 - Low,3/23/2026 2:03,Resolved,USA - GA - Morrow,AMERICAS,United States of America,USA - GA - Morrow,Morrow
+INC4173214,2 - High,\GMSGQMI-DISCOVERANT-EDB\\010-IICS-TF-GMSGQMI-DISCOVERANT-EDB-PD-NON-LOOPING-SRC-TO-RAW has failed,3 - Low,3/23/2026 2:05,Resolved,,AMERICAS,United States of America,,
+INC4173215,2 - High,\GMSGQMI-DISCOVERANT-EDB\\010-IICS-TF-GMSGQMI-DISCOVERANT-EDB-PRD-AG-D-DATA-SRC-TO-RAW has failed,3 - Low,3/23/2026 2:05,Resolved,,AMERICAS,United States of America,,
+INC4173216,2 - High,\GMSGQMI-DISCOVERANT-EDB\\010-IICS-TF-GMSGQMI-DISCOVERANT-EDB-PD-AG-D-DATA-SRC-TO-RAW has failed,3 - Low,3/23/2026 2:05,Resolved,,AMERICAS,United States of America,,
+INC4173217,2 - High,\GMSGQMI-DISCOVERANT-EDB\\010-IICS-TF-GMSGQMI-DISCOVERANT-EDB-PRD-AG-R-IDS-SRC-TO-RAW has failed,3 - Low,3/23/2026 2:05,Resolved,,AMERICAS,United States of America,,
+INC4173221,2 - High,DPS - Card assignment issue,3 - Low,3/23/2026 2:08,In Progress,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173228,2 - High,DIS - HAE - Plasma Type update,3 - Low,3/23/2026 2:09,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173230,2 - High,DIS - EOD - Plasma type update,3 - Low,3/23/2026 2:10,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173232,2 - High,DIS - DXT - Plasma type update,3 - Low,3/23/2026 2:12,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173233,2 - High,JDE-AWS-C3ME-4-64BIT Agent/Adapter disconnected in USA Tidal Production at 3/22/2026 04:42:03 PM EST,3 - Low,3/23/2026 2:12,Resolved,,AMERICAS,United States of America,,
+INC4173235,2 - High,DIS - HAE - Plasma type update ,3 - Low,3/23/2026 2:14,Resolved,USA - NC - Greensboro,AMERICAS,United States of America,USA - NC - Greensboro,Greensboro
+INC4173237,2 - High,JDE-AWS-C3ME-4-64BIT Agent/Adapter disconnected in USA Tidal Production at 3/22/2026 04:49:51 PM EST,3 - Low,3/23/2026 2:20,Resolved,,AMERICAS,United States of America,,
+INC4173247,2 - High,DIS-Lab Boxing Issues ,3 - Low,3/23/2026 2:24,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173249,2 - High,DIS - DXT - Plasma type update ,3 - Low,3/23/2026 2:28,Resolved,USA - FL - Casselberry,AMERICAS,United States of America,USA - FL - Casselberry,Casselberry
+INC4173250,2 - High, DIS - DXT - Plasma type update,3 - Low,3/23/2026 2:29,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173253,2 - High,JDE-AWS-C3ME-4-64BIT Agent/Adapter disconnected in USA Tidal Production at 3/22/2026 05:00:32 PM EST,3 - Low,3/23/2026 2:30,Resolved,,AMERICAS,United States of America,,
+INC4173256,2 - High,\GMSGQMI-SCW\\010-IICS-TF-GMSGQMI-SCW-SRC-TO-RAW has failed,3 - Low,3/23/2026 2:31,Resolved,,AMERICAS,United States of America,,
+INC4173257,2 - High,\GMSGQMI-TECHMASS-ORDER-BOTTLENECK-RI\\010-IICS-TF-GMSGQMI-TECHMASS-ORDER-BOTTLENECK-RI-ALL-INCR-SRC-TO-RAW has failed,3 - Low,3/23/2026 2:31,Resolved,,AMERICAS,United States of America,,
+INC4173258,2 - High,\GMSGQMI-BIRDVIEW\\010-IICS-TF-GMSGQMI-BIRDVIEW-SRC-TO-RAW has failed,3 - Low,3/23/2026 2:31,New,,AMERICAS,United States of America,,
+INC4173260,2 - High,DIS - HAE - Plasma type update ,3 - Low,3/23/2026 2:31,Resolved,USA - GA - Morrow,AMERICAS,United States of America,USA - GA - Morrow,Morrow
+INC4173265,2 - High,DIS - DXT - Plasma type update,3 - Low,3/23/2026 2:35,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173269,2 - High,DIS - DXT - Plasma type update,3 - Low,3/23/2026 2:43,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173272,2 - High,DIS - DXT - Reprocess unit,3 - Low,3/23/2026 2:45,Resolved,USA - AZ - Tucson - Auto,AMERICAS,United States of America,USA - AZ - Tucson - Auto,Tucson
+INC4173275,2 - High,DIS - DXT - Plasma type update ,3 - Low,3/23/2026 2:48,Resolved,USA - FL - Casselberry,AMERICAS,United States of America,USA - FL - Casselberry,Casselberry
+INC4173278,2 - High,DIS - DXT - Plasma type update,3 - Low,3/23/2026 2:51,Resolved,USA - TX - Tyler,AMERICAS,United States of America,USA - TX - Tyler,Tyler
+INC4173285,2 - High,DIS - DXT - Volumes update,3 - Low,3/23/2026 2:56,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173288,2 - High,DIS - EOD - Plasma type update,3 - Low,3/23/2026 2:59,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173293,2 - High,DIS - DXT - Volumes update,3 - Low,3/23/2026 3:10,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173294,2 - High,DIS - DXT - Plasma type update,3 - Low,3/23/2026 3:11,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173302,2 - High,DIS - DXT - Plasma type update,3 - Low,3/23/2026 3:28,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173304,2 - High,\GMSGQMI-SQL-LIMS-CE\\010-IICS-TF-GMSGQMI-SQL-LIMS-CE-SRC-TO-RAW-3 has failed,3 - Low,3/23/2026 3:31,Resolved,,AMERICAS,United States of America,,
+INC4173306,2 - High,\GMSGQMI-SQL-LIMS-CE\\010-IICS-TF-GMSGQMI-SQL-LIMS-CE-SRC-TO-RAW-1 has failed,3 - Low,3/23/2026 3:31,Resolved,,AMERICAS,United States of America,,
+INC4173307,2 - High,\GMSGQMI-SQL-LIMS-CE\\010-IICS-TF-GMSGQMI-SQL-LIMS-CE-SRC-TO-RAW-2 has failed,3 - Low,3/23/2026 3:31,Resolved,,AMERICAS,United States of America,,
+INC4173308,2 - High,DIS - EOD - Processed code update ,3 - Low,3/23/2026 3:31,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173310,2 - High,DIS - DXT - Plasma Type update,3 - Low,3/23/2026 3:32,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173311,2 - High,DIS - EOD - Plasma type update,3 - Low,3/23/2026 3:34,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173318,2 - High,DIS - EOD - Plasma type update,3 - Low,3/23/2026 3:45,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173320,2 - High,DIS - EOD - Plasma type update ,3 - Low,3/23/2026 3:45,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173321,2 - High,DIS - EOD - Plasma type update,3 - Low,3/23/2026 3:49,Resolved,USA - TX - San Antonio - New Ave,AMERICAS,United States of America,USA - TX - San Antonio - New Ave,San Antonio
+INC4173322,2 - High,DIS - DXT - Plasma Type update,3 - Low,3/23/2026 3:50,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173325,2 - High,DIS - HAE - Volumes update ,3 - Low,3/23/2026 3:53,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173326,2 - High,DIS - EOD - Dreason update,3 - Low,3/23/2026 3:53,Resolved,USA - WI - Greenfield,AMERICAS,United States of America,USA - WI - Greenfield,Greenfield
+INC4173327,2 - High,DIS - DXT - Arm/Machine Update,3 - Low,3/23/2026 3:54,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173332,2 - High,DIS - DXT - Volumes update,3 - Low,3/23/2026 3:58,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173338,2 - High,DIS - EOD - Plasma type update,3 - Low,3/23/2026 4:09,Resolved,USA - UT - Ogden,AMERICAS,United States of America,USA - UT - Ogden,Ogden
+INC4173343,2 - High,DIS - EOD - Plasma type update,3 - Low,3/23/2026 4:18,Resolved,USA - MN - Mounds View,AMERICAS,United States of America,USA - MN - Mounds View,Mounds View
+INC4173346,2 - High,DIS - DXT - Plasma Type update,3 - Low,3/23/2026 4:27,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173348,2 - High,DIS - EOD - Plasma type update,3 - Low,3/23/2026 4:30,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173366,2 - High,\GMSGQEHS-CAPA-DATE-DETAILS-GLOBALSCAPE-PUSH\\0101-CAPA-DATE-DETAILS-GLOBALSCAPE-PUSH has failed,3 - Low,3/23/2026 4:45,Resolved,,AMERICAS,United States of America,,
+INC4173367,2 - High,\GMSGQEHS-BASE-EVENT-DETAILS-GLOBALSCAPE-PUSH\\0101-BASE-EVENT-DETAILS-GLOBALSCAPE-PUSH has failed,3 - Low,3/23/2026 4:45,Resolved,,AMERICAS,United States of America,,
+INC4173369,2 - High,DIS - HAE - Plasma type update,3 - Low,3/23/2026 4:48,Resolved,USA - MO - Saint Ann,AMERICAS,United States of America,USA - MO - Saint Ann,Saint Ann
+INC4173371,2 - High,DIS - DXT - Nomogram update,3 - Low,3/23/2026 4:53,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173372,2 - High,DIS - EOD - Plasma type update,3 - Low,3/23/2026 4:58,Resolved,USA - CA - Pomona,AMERICAS,United States of America,USA - CA - Pomona,Pomona
+INC4173373,2 - High,DIS - EOD - Volumes Update,3 - Low,3/23/2026 5:01,Resolved,USA - CO - Colorado Springs,AMERICAS,United States of America,USA - CO - Colorado Springs,Colorado Springs
+INC4173374,2 - High,\GMSGQMI-RED4S-TJ\\010-IICS-TF-GMSGQMI-RED4S-TJ-SRC-TO-RAW-1 has failed,3 - Low,3/23/2026 5:01,Resolved,,AMERICAS,United States of America,,
+INC4173375,2 - High,\GMSGQMI-RED4S-TJ\\010-IICS-TF-GMSGQMI-RED4S-TJ-SRC-TO-RAW-INCR has failed,3 - Low,3/23/2026 5:01,Resolved,,AMERICAS,United States of America,,
+INC4173379,2 - High,DIS - EOD - Plasma type update,3 - Low,3/23/2026 5:07,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173389,2 - High,DIS - EOD  - Plasma type update,3 - Low,3/23/2026 5:19,Resolved,USA - TX - Universal City,AMERICAS,United States of America,USA - TX - Universal City,Universal City
+INC4173424,2 - High,DIS - DXT - Plasma type update ,3 - Low,3/23/2026 5:32,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173438,2 - High,DIS - HAE - Arm/Machine Update ,3 - Low,3/23/2026 5:33,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173443,2 - High,DIS - DXT - Plasma type update,3 - Low,3/23/2026 5:34,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173458,2 - High,DIS - EOD - Plasma type update,3 - Low,3/23/2026 5:35,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173491,2 - High,DIS - DXT - Plasma Type update,3 - Low,3/23/2026 5:39,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173512,2 - High,DIS - DXT - Plasma type update ,3 - Low,3/23/2026 5:49,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173513,2 - High,DIS - EOD - Plasma type update,3 - Low,3/23/2026 5:50,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173519,2 - High,DIS - EOD - All donors not processed,3 - Low,3/23/2026 6:00,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173528,2 - High,DIS - DXT - Plasma Type update,3 - Low,3/23/2026 6:13,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173539,2 - High,DIS - EOD - Plasma type update,3 - Low,3/23/2026 6:23,Resolved,USA - AZ - Tucson - Auto,AMERICAS,United States of America,USA - AZ - Tucson - Auto,Tucson
+INC4173570,2 - High,DIS - EOD - Plasma type update ,3 - Low,3/23/2026 7:00,Resolved,PHL - Philippines Remote,ASIA,Philippines,PHL - Philippines Remote,Makati City
+INC4173673,2 - High,\COM-CDP-CRM-LAKE-TO-LAKE-DELTA\\080-CDP_CRM-LAKE-TO-LAKE-CHARM-KOL-STAKEHOLDER-STG has failed,3 - Low,3/23/2026 9:05,Resolved,,AMERICAS,United States of America,,
+INC4173675,2 - High,\COM-CDP-CRM-LAKE-TO-LAKE-DELTA\\110-CDP_CRM-LAKE-TO-LAKE-CHARM_KOL_TACTIC_TPI__C_STG has failed,3 - Low,3/23/2026 9:06,Resolved,,AMERICAS,United States of America,,
+INC4173703,2 - High,\GMSGQEHS-RISK-LAMBDA-JOBS\030-LAKE-LAMBDA-RISK-CONTROLS\\030-RUN-LAKE-LAMBDA-GMSGQEHS-RISK-CONTROLS has failed,3 - Low,3/23/2026 9:38,Resolved,,AMERICAS,United States of America,,
+INC4173706,2 - High,\GMSGQEHS-MOC-LAMBDA-JOBS\030-LAKE-LAMBDA-MOC-CAPA\\030-RUN-LAKE-LAMBDA-GMSGQEHS-MOC-CAPA has failed,3 - Low,3/23/2026 9:39,Resolved,,AMERICAS,United States of America,,
+INC4173708,2 - High,\GMSGQMI-CMO-LAMBDA-JOBS\030-LAKE-LAMBDA-CMO-SHIRE-STABILITY\\030-RUN-LAKE-LAMBDA-CMO-SHIRE-STABILITY has failed,3 - Low,3/23/2026 9:39,Resolved,,AMERICAS,United States of America,,
+INC4173709,2 - High,\GMSGQMI-CMO-LAMBDA-JOBS\030-LAKE-LAMBDA-CMO-TAKEDA-SAP\\030-RUN-LAKE-LAMBDA-CMO-TAKEDA-SAP has failed,3 - Low,3/23/2026 9:39,Resolved,,AMERICAS,United States of America,,
+INC4173710,2 - High,\GMSGQMI-CMO-LAMBDA-JOBS\030-LAKE-LAMBDA-CMO-SHIRE-SAP\\030-RUN-LAKE-LAMBDA-CMO-SHIRE-SAP has failed,3 - Low,3/23/2026 9:39,Resolved,,AMERICAS,United States of America,,
+INC4173711,2 - High,\GMSGQMI-CMO-LAMBDA-JOBS\030-LAKE-LAMBDA-CMO-TAKEDA-STABILITY\\030-RUN-LAKE-LAMBDA-CMO-TAKEDA-STABILITY has failed,3 - Low,3/23/2026 9:39,Resolved,,AMERICAS,United States of America,,
+INC4173744,2 - High,\GMSGQMI-CMO\\040-BDM-WF-GMSGQMI-CMO-LAKE-TO-LAKE-TXN-CMO-STABILITY-CHANGE-LOG-GLBL has failed,3 - Low,3/23/2026 10:26,In Progress,,AMERICAS,United States of America,,
+INC4173755,2 - High,\QM_US_APPROVED_LOT_SAP_TO_DIS_RT_DAILY\\QM_US_D_SAP_DIS_RT_DAILY has failed,3 - Low,3/23/2026 10:35,In Progress,,AMERICAS,United States of America,,
+INC4173804,2 - High,\GMSGQMI-CMO\\050-BDM-WF-GMSGQMI-CMO-LAKE-TO-LAKE-TXN-CMO-LIMS-DATA-GLBL has failed,3 - Low,3/23/2026 12:01,In Progress,,AMERICAS,United States of America,,
+INC4173832,2 - High,\GMSGQMI-GLIMS-CONNECTION\\010-GMSGQMI-GLIMS-CONNECTION-TEST has failed,3 - Low,3/23/2026 12:33,In Progress,,AMERICAS,United States of America,,
+INC4173886,2 - High,\VEEVA_JAPAN\AI\01-AI_DM_DAILY_REPLICATION\05-AI_ENC_CLU\\040-AI_T_ENC_CLU_BI_SUM has failed,3 - Low,3/23/2026 13:22,New,,AMERICAS,United States of America,,
